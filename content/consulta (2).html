@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consulta Energética</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Lato:wght@300;400&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --gold: #c9a84c; --gold-light: #e8d49a; --gold-dim: #7a6230;
+      --ink: #0e0c08; --parchment: #f5f0e8; --mist: rgba(201,168,76,0.08); --radius: 12px;
+    }
+    body {
+      background: var(--ink); color: var(--parchment);
+      font-family: 'Lato', sans-serif; font-weight: 300;
+      min-height: 100vh; padding: 2rem 1.25rem 4rem;
+    }
+    body::before {
+      content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+      background:
+        radial-gradient(1px 1px at 10% 15%, rgba(201,168,76,0.6) 0%, transparent 100%),
+        radial-gradient(1px 1px at 30% 8%,  rgba(201,168,76,0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 55% 22%, rgba(255,255,255,0.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 75% 5%,  rgba(201,168,76,0.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 88% 18%, rgba(255,255,255,0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 15% 38%, rgba(255,255,255,0.3) 0%, transparent 100%),
+        radial-gradient(1px 1px at 45% 42%, rgba(201,168,76,0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 92% 35%, rgba(255,255,255,0.3) 0%, transparent 100%),
+        radial-gradient(1px 1px at 5%  70%, rgba(255,255,255,0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 82% 72%, rgba(201,168,76,0.5) 0%, transparent 100%),
+        radial-gradient(ellipse at 20% 50%, #1a1508 0%, #0e0c08 60%);
+    }
+    .page { position: relative; z-index: 1; max-width: 680px; margin: 0 auto; }
+    .header { text-align: center; margin-bottom: 2.5rem; }
+    .sigil {
+      width: 56px; height: 56px; margin: 0 auto 1rem;
+      border: 1px solid var(--gold-dim); border-radius: 50%;
+      display: flex; align-items: center; justify-content: center; font-size: 22px;
+      animation: pulse 4s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { box-shadow: 0 0 18px rgba(201,168,76,0.2); }
+      50%      { box-shadow: 0 0 34px rgba(201,168,76,0.5); }
+    }
+    .title {
+      font-family: 'Cinzel', serif; font-size: 1.6rem; font-weight: 600;
+      letter-spacing: 0.12em; color: var(--gold); text-shadow: 0 0 28px rgba(201,168,76,0.4);
+    }
+    .subtitle { font-size: 0.78rem; letter-spacing: 0.2em; color: var(--gold-dim); margin-top: 0.4rem; text-transform: uppercase; }
+    .header-desc { font-size: 0.85rem; color: rgba(245,240,232,0.55); margin-top: 1rem; line-height: 1.7; max-width: 480px; margin-inline: auto; }
+    .divider { display: flex; align-items: center; gap: 10px; margin: 1.75rem 0; color: var(--gold-dim); font-size: 11px; }
+    .divider::before { content: ''; flex: 1; height: 1px; background: linear-gradient(90deg, transparent, var(--gold-dim)); }
+    .divider::after  { content: ''; flex: 1; height: 1px; background: linear-gradient(90deg, var(--gold-dim), transparent); }
+    .input-label { font-family: 'Cinzel', serif; font-size: 0.7rem; letter-spacing: 0.15em; color: var(--gold-dim); text-transform: uppercase; margin-bottom: 0.6rem; }
+    textarea {
+      width: 100%; background: rgba(201,168,76,0.04); border: 1px solid var(--gold-dim);
+      border-radius: var(--radius); color: var(--parchment); font-family: 'Lato', sans-serif;
+      font-size: 0.9rem; font-weight: 300; line-height: 1.6; padding: 0.9rem 1rem; resize: none; outline: none;
+      transition: border-color 0.3s, box-shadow 0.3s;
+    }
+    textarea::placeholder { color: var(--gold-dim); opacity: 0.6; }
+    textarea:focus { border-color: var(--gold); box-shadow: 0 0 18px rgba(201,168,76,0.15); }
+    .examples { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 0.75rem; }
+    .ex-chip {
+      font-size: 0.72rem; padding: 4px 11px; border: 1px solid var(--gold-dim); border-radius: 20px;
+      color: var(--gold-dim); cursor: pointer; background: transparent; font-family: 'Lato', sans-serif; transition: all 0.2s;
+    }
+    .ex-chip:hover { border-color: var(--gold); color: var(--gold); background: var(--mist); }
+    .invoke-btn {
+      width: 100%; margin-top: 1rem; padding: 0.9rem; background: transparent; border: 1px solid var(--gold);
+      border-radius: var(--radius); color: var(--gold); font-family: 'Cinzel', serif;
+      font-size: 0.85rem; letter-spacing: 0.15em; cursor: pointer; transition: box-shadow 0.3s;
+    }
+    .invoke-btn:hover { box-shadow: 0 0 22px rgba(201,168,76,0.28); }
+    .invoke-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+    .loading { display: none; text-align: center; padding: 2.5rem 0; }
+    .loading.active { display: block; }
+    .orb {
+      width: 42px; height: 42px; margin: 0 auto 1rem; border-radius: 50%;
+      border: 1px solid var(--gold); border-top-color: transparent;
+      animation: spin 1.2s linear infinite; box-shadow: 0 0 16px rgba(201,168,76,0.3);
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-text { font-family: 'Cinzel', serif; font-size: 0.72rem; letter-spacing: 0.18em; color: var(--gold-dim); animation: flicker 2s ease-in-out infinite; }
+    @keyframes flicker { 0%,100%{opacity:0.5} 50%{opacity:1} }
+    .results { display: none; }
+    .results.active { display: block; animation: fadeUp 0.5s ease; }
+    @keyframes fadeUp { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+    .result-intro { font-size: 0.88rem; line-height: 1.75; color: rgba(245,240,232,0.72); padding: 1rem 1.1rem; border-left: 2px solid var(--gold-dim); background: var(--mist); border-radius: 0 var(--radius) var(--radius) 0; margin-bottom: 1.5rem; }
+    .energies-grid { display: flex; flex-direction: column; gap: 10px; margin-bottom: 1.5rem; }
+    .energy-card { background: rgba(201,168,76,0.04); border: 1px solid var(--gold-dim); border-radius: var(--radius); padding: 1rem 1.1rem; transition: border-color 0.3s, box-shadow 0.3s; }
+    .energy-card:hover { border-color: var(--gold); box-shadow: 0 0 14px rgba(201,168,76,0.1); }
+    .card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 0.5rem; }
+    .card-icon { font-size: 1.3rem; }
+    .card-name { font-family: 'Cinzel', serif; font-size: 0.95rem; color: var(--gold); }
+    .card-type { font-size: 0.67rem; letter-spacing: 0.13em; text-transform: uppercase; color: var(--gold-dim); margin-left: auto; }
+    .card-desc { font-size: 0.82rem; line-height: 1.65; color: rgba(245,240,232,0.68); }
+    .combo-section { background: rgba(201,168,76,0.06); border: 1px solid rgba(201,168,76,0.3); border-radius: var(--radius); padding: 1rem 1.1rem; margin-bottom: 1.5rem; }
+    .combo-title { font-family: 'Cinzel', serif; font-size: 0.78rem; letter-spacing: 0.14em; color: var(--gold); text-transform: uppercase; margin-bottom: 0.85rem; }
+    .combo-item { display: flex; align-items: flex-start; gap: 10px; padding-bottom: 0.8rem; margin-bottom: 0.8rem; border-bottom: 1px solid rgba(201,168,76,0.12); }
+    .combo-item:last-child { padding-bottom: 0; margin-bottom: 0; border-bottom: none; }
+    .combo-names { color: var(--gold-light); font-weight: 400; display: block; margin-bottom: 2px; font-size: 0.84rem; }
+    .combo-text { font-size: 0.82rem; line-height: 1.6; color: rgba(245,240,232,0.7); }
+    .new-btn { width: 100%; padding: 0.72rem; background: transparent; border: 1px solid rgba(201,168,76,0.28); border-radius: var(--radius); color: var(--gold-dim); font-family: 'Cinzel', serif; font-size: 0.74rem; letter-spacing: 0.14em; cursor: pointer; transition: all 0.3s; }
+    .new-btn:hover { border-color: var(--gold-dim); color: var(--gold); }
+    .error-msg { display: none; text-align: center; padding: 1.5rem; color: #c47a6a; font-size: 0.83rem; line-height: 1.8; }
+    .error-msg.active { display: block; }
+    .footer { margin-top: 3rem; text-align: center; font-size: 0.72rem; color: rgba(201,168,76,0.3); letter-spacing: 0.1em; }
+    .footer a { color: rgba(201,168,76,0.4); text-decoration: none; }
+    @media (max-width: 480px) { .title { font-size: 1.25rem; } body { padding: 1.5rem 1rem 3rem; } }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div class="sigil">✦</div>
+    <div class="title">BIBLIOTECA DE ENERGIAS</div>
+    <div class="subtitle">Consulta &amp; Combinações Energéticas</div>
+    <p class="header-desc">Descreva como você está se sentindo, uma situação de vida ou uma intenção. A IA irá indicar as energias mais alinhadas e suas melhores combinações.</p>
+  </div>
+
+  <div id="input-view">
+    <div class="input-label">O que você sente ou busca?</div>
+    <textarea id="query" rows="4" placeholder="Ex: Estou me sentindo sem foco e muito ansioso, quero atrair mais clareza mental e paz interior..."></textarea>
+    <div class="examples">
+      <button class="ex-chip" onclick="fillExample('Preciso de proteção energética e afastar energias negativas')">Proteção energética</button>
+      <button class="ex-chip" onclick="fillExample('Quero atrair abundância e prosperidade financeira')">Prosperidade</button>
+      <button class="ex-chip" onclick="fillExample('Estou com o coração partido e preciso de cura emocional')">Cura emocional</button>
+      <button class="ex-chip" onclick="fillExample('Sinto dificuldade de me comunicar e expressar meus sentimentos')">Comunicação</button>
+      <button class="ex-chip" onclick="fillExample('Quero despertar minha intuição e conexão espiritual')">Intuição</button>
+      <button class="ex-chip" onclick="fillExample('Estou exausto e preciso recarregar minha energia vital')">Vitalidade</button>
+    </div>
+    <button class="invoke-btn" id="invoke-btn" onclick="invokeReading()">✦ CONSULTAR AS ENERGIAS ✦</button>
+  </div>
+
+  <div class="loading" id="loading">
+    <div class="orb"></div>
+    <div class="loading-text" id="loading-text">LENDO OS CAMPOS ENERGÉTICOS...</div>
+  </div>
+
+  <div class="error-msg" id="error-msg"></div>
+
+  <div class="results" id="results">
+    <div class="divider">✦</div>
+    <div class="result-intro" id="result-intro"></div>
+    <div class="energies-grid" id="energies-grid"></div>
+    <div class="combo-section">
+      <div class="combo-title">⟡ Combinações que se Potencializam</div>
+      <div id="combos-list"></div>
+    </div>
+    <button class="new-btn" onclick="resetApp()">↩ Nova consulta</button>
+  </div>
+
+  <div class="footer">Parte da <a href="index.html">Biblioteca de Energias</a> &nbsp;·&nbsp; Powered by IA</div>
+</div>
+
+<script>
+  // ================================================================
+  //  PASSO ÚNICO: substitua o texto abaixo pela sua chave do Groq
+  //  A chave começa com gsk_ e você copiou do site console.groq.com
+  // ================================================================
+  const GROQ_API_KEY = "COLE_SUA_CHAVE_AQUI";
+  // ================================================================
+
+  const MODEL = "llama3-70b-8192";
+
+  const PROMPT = `Você é um especialista em energias sutis, cristaloterapia, chakras, elementais, ervas e práticas energéticas. O usuário descreverá uma situação, sentimento ou intenção.
+
+Responda SOMENTE com JSON válido, sem markdown, sem texto fora do JSON:
+
+{
+  "intro": "2-3 frases acolhedoras sobre a situação energética da pessoa",
+  "energias": [
+    { "nome": "Nome", "tipo": "Cristal | Chakra | Elemental | Planta | Cósmica | Angélica", "icone": "emoji", "descricao": "Por que é indicada, 2-3 frases" }
+  ],
+  "combinacoes": [
+    { "elementos": ["Nome 1", "Nome 2"], "sinergia": "Como se potencializam, 1-2 frases" }
+  ]
+}
+
+Retorne 3-5 energias e 2-3 combinações. Varie os tipos. Sempre em português.`;
+
+  const phrases = ['LENDO OS CAMPOS ENERGÉTICOS...','CONSULTANDO OS REGISTROS ÁQUICOS...','ALINHANDO AS FREQUÊNCIAS...','TECENDO AS COMBINAÇÕES...'];
+
+  function fillExample(t) { document.getElementById('query').value = t; document.getElementById('query').focus(); }
+
+  async function invokeReading() {
+    const query = document.getElementById('query').value.trim();
+    if (!query) { document.getElementById('query').focus(); return; }
+
+    if (GROQ_API_KEY === "COLE_SUA_CHAVE_AQUI") {
+      showError('⚠️ Chave não configurada.<br>Abra o arquivo <b>consulta.html</b> num editor de texto, procure o texto <b>COLE_SUA_CHAVE_AQUI</b> e substitua pela sua chave <b>gsk_...</b> do Groq.');
+      return;
+    }
+
+    document.getElementById('invoke-btn').disabled = true;
+    document.getElementById('input-view').style.display = 'none';
+    document.getElementById('loading').classList.add('active');
+    document.getElementById('error-msg').classList.remove('active');
+    document.getElementById('results').classList.remove('active');
+
+    let pi = 0;
+    const ltxt = document.getElementById('loading-text');
+    const lt = setInterval(() => { pi = (pi+1)%phrases.length; ltxt.textContent = phrases[pi]; }, 1800);
+
+    try {
+      const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + GROQ_API_KEY },
+        body: JSON.stringify({
+          model: MODEL, temperature: 0.7, max_tokens: 1000,
+          messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: query }]
+        })
+      });
+
+      clearInterval(lt);
+      if (!res.ok) throw new Error('status ' + res.status);
+      const data = await res.json();
+      const raw = data.choices[0].message.content.replace(/```json|```/g, '').trim();
+      renderResults(JSON.parse(raw));
+
+    } catch(e) {
+      clearInterval(lt);
+      document.getElementById('loading').classList.remove('active');
+      showError('Algo perturbou a leitura energética.<br>Verifique sua chave e tente novamente.');
+      document.getElementById('input-view').style.display = 'block';
+      document.getElementById('invoke-btn').disabled = false;
+    }
+  }
+
+  function showError(msg) {
+    const el = document.getElementById('error-msg');
+    el.innerHTML = msg; el.classList.add('active');
+  }
+
+  function renderResults(data) {
+    document.getElementById('loading').classList.remove('active');
+    document.getElementById('result-intro').textContent = data.intro || '';
+
+    const grid = document.getElementById('energies-grid');
+    grid.innerHTML = '';
+    (data.energias || []).forEach(e => {
+      grid.innerHTML += `<div class="energy-card"><div class="card-header"><span class="card-icon">${e.icone||'✦'}</span><span class="card-name">${e.nome}</span><span class="card-type">${e.tipo}</span></div><div class="card-desc">${e.descricao}</div></div>`;
+    });
+
+    const combos = document.getElementById('combos-list');
+    combos.innerHTML = '';
+    (data.combinacoes || []).forEach(c => {
+      combos.innerHTML += `<div class="combo-item"><span style="font-size:1rem;flex-shrink:0">⟡</span><div class="combo-text"><span class="combo-names">${(c.elementos||[]).join(' + ')}</span>${c.sinergia}</div></div>`;
+    });
+
+    document.getElementById('results').classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function resetApp() {
+    document.getElementById('results').classList.remove('active');
+    document.getElementById('input-view').style.display = 'block';
+    document.getElementById('invoke-btn').disabled = false;
+    document.getElementById('query').value = '';
+    document.getElementById('query').focus();
+  }
+
+  document.addEventListener('keydown', e => { if (e.key === 'Enter' && e.ctrlKey) invokeReading(); });
+</script>
+</body>
+</html>
