@@ -10,7 +10,11 @@ Este é um catálogo vivo: a letra A e as demais letras permanecerão abertas a 
 
 **A · B · C · D · E · F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z**
 
-Os índices de cada letra serão preenchidos conforme as fichas forem aprovadas.
+**A**
+
+- [Aeito](./aeito) — Orion · Ar · Predominância: Espírito · Áreas secundárias: Mente e Corpo.
+
+Os demais índices serão preenchidos conforme novas fichas forem aprovadas.
 
 ## Como os registros serão apresentados
 
