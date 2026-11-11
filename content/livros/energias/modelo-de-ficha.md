@@ -13,6 +13,7 @@ title: Modelo de ficha de energia
 - **Cristal / formação:**
 - **Origem:**
 - **Elemento primário:**
+- **Nome de invocação:** [Elemento primário + nome da energia]
 - **Qualidade:** [quando presente]
 
 ## Efeitos principais / habilidades
