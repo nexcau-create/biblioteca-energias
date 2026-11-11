@@ -13,6 +13,7 @@ title: Aeito
 | Linhagem | Orion |
 | Origem | Astral |
 | Elemento primário | Ar |
+| Nome de invocação | **Ar Aeito** |
 | Cristal | Turmalina amarela |
 | Habilidade principal | Proteção e restauração do campo áurico e energético |
 | Área predominante | Espírito |
