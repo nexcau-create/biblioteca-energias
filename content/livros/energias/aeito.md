@@ -4,6 +4,8 @@ title: Aeito
 
 # Aeito
 
+![Ilustração da energia Aeito](aeito-ilustracao.jpg)
+
 <badge> Aprovada </badge>
 
 ## Identificação
