@@ -4,7 +4,7 @@ title: Livro I — Catálogo de Energias
 
 # Livro I — Catálogo de Energias
 
-![Capa do Livro I — Energias](../../capas/energias.svg)
+![Capa do Livro I — Energias](../../capas/energias.jpg)
 
 Este catálogo reúne as ilustrações das energias registradas na Biblioteca. Cada entrada pública apresenta a imagem correspondente.
 
