@@ -4,18 +4,18 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4 Configuration
  *
- * See https://nexcau-create.github.io/biblioteca-energias/configuration for more information.
+ * Biblioteca do Conhecimento Magístico
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Biblioteca do Conhecimento Magístico",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     baseUrl: "nexcau-create.github.io/biblioteca-energias",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

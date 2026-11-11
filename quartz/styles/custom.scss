@@ -1,3 +1,239 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* Identidade visual — Biblioteca do Conhecimento Magístico */
+:root {
+  --library-forest: #10251f;
+  --library-forest-deep: #091712;
+  --library-gold: #c7a66a;
+  --library-ivory: #eee7d8;
+}
+
+[saved-theme="dark"] body {
+  background:
+    radial-gradient(ellipse at 50% -20%, rgba(72, 94, 67, 0.18), transparent 55%),
+    var(--light);
+}
+
+[saved-theme="dark"] #quartz-root {
+  --light: #111a16;
+  --lightgray: #26332c;
+  --gray: #68766d;
+  --darkgray: #d5d9cf;
+  --dark: #eee7d8;
+  --secondary: #c7a66a;
+  --tertiary: #82977e;
+  --highlight: rgba(199, 166, 106, 0.12);
+}
+
+.library-home {
+  width: 100%;
+}
+
+.library-hero {
+  text-align: center;
+  padding: clamp(2rem, 6vw, 4.5rem) 1rem 2.5rem;
+  border-bottom: 1px solid rgba(199, 166, 106, 0.28);
+  margin-bottom: 2rem;
+}
+
+.library-kicker {
+  color: var(--secondary);
+  letter-spacing: 0.2em;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.library-hero h1 {
+  max-width: 850px;
+  margin: 0.8rem auto;
+  font-family: "Schibsted Grotesk", Georgia, serif;
+  letter-spacing: 0.015em;
+  line-height: 1.12;
+}
+
+.library-intro {
+  max-width: 650px;
+  margin: 0 auto;
+  font-size: 1.12rem;
+  color: var(--darkgray);
+}
+
+.library-note {
+  color: var(--gray);
+  font-size: 0.88rem;
+}
+
+.library-books {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem 1.4rem;
+  margin: 2rem 0 3rem;
+}
+
+.book-card {
+  display: block;
+  color: var(--dark);
+  text-decoration: none;
+  min-width: 0;
+}
+
+.book-card:hover {
+  text-decoration: none;
+}
+
+.book-cover {
+  aspect-ratio: 0.76;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding: 1.2rem;
+  border: 1px solid rgba(224, 197, 137, 0.72);
+  border-radius: 5px 12px 12px 5px;
+  box-shadow: 5px 8px 18px rgba(0, 0, 0, 0.32), inset 7px 0 9px rgba(0, 0, 0, 0.22), inset 0 0 0 5px rgba(226, 197, 137, 0.09), inset 0 0 0 7px rgba(226, 197, 137, 0.28);
+  color: #f0dfb8;
+  text-align: center;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.book-cover::before {
+  content: "";
+  position: absolute;
+  inset: 13px;
+  border: 1px solid rgba(226, 197, 137, 0.62);
+  border-radius: 2px 7px 7px 2px;
+  pointer-events: none;
+}
+
+.book-cover::after {
+  content: "✧  ·  ✦  ·  ✧";
+  position: absolute;
+  bottom: 1.15rem;
+  color: rgba(240, 223, 184, 0.7);
+  letter-spacing: 0.25em;
+  font-size: 0.72rem;
+}
+
+.book-card:hover .book-cover {
+  transform: translateY(-5px);
+  box-shadow: 7px 14px 24px rgba(0, 0, 0, 0.4), inset 7px 0 9px rgba(0, 0, 0, 0.22), inset 0 0 0 5px rgba(226, 197, 137, 0.09), inset 0 0 0 7px rgba(226, 197, 137, 0.28);
+}
+
+.book-number {
+  font-family: Georgia, serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.3em;
+  margin-bottom: 1.5rem;
+  color: #d9bd82;
+}
+
+.book-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.05rem, 2.1vw, 1.65rem);
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  line-height: 1.2;
+  text-shadow: 0 2px 5px rgba(0,0,0,.45);
+}
+
+.book-subtitle {
+  max-width: 180px;
+  margin-top: 0.8rem;
+  font-family: Georgia, serif;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: #e0d0ad;
+}
+
+.book-ornament {
+  font-family: Georgia, serif;
+  font-size: 2.6rem;
+  line-height: 1;
+  margin-top: 1.3rem;
+  color: #d9bd82;
+  text-shadow: 0 0 16px rgba(217, 189, 130, 0.35);
+}
+
+.book-energies .book-cover { background: radial-gradient(ellipse at 50% 35%, #31553c, #142b20 68%, #0b1912); }
+.book-codes .book-cover { background: radial-gradient(ellipse at 50% 35%, #733d42, #452329 68%, #241317); }
+.book-laws .book-cover { background: radial-gradient(ellipse at 50% 35%, #344e70, #1c2c47 68%, #101a2b); }
+.book-runes .book-cover { background: radial-gradient(ellipse at 50% 35%, #72583a, #403020 68%, #21180f); }
+.book-symbolisms .book-cover { background: radial-gradient(ellipse at 50% 35%, #59416f, #352343 68%, #1d1427); }
+.book-symbols .book-cover { background: radial-gradient(ellipse at 50% 35%, #4b5050, #292d2d 68%, #151818); }
+
+.book-caption {
+  display: block;
+  padding: 0.85rem 0.2rem 0;
+  text-align: center;
+}
+
+.book-caption strong, .book-caption small {
+  display: block;
+}
+
+.book-caption strong {
+  font-size: 0.95rem;
+  color: var(--dark);
+}
+
+.book-caption small {
+  color: var(--gray);
+  font-size: 0.78rem;
+  margin-top: 0.2rem;
+}
+
+.library-principles {
+  border-top: 1px solid rgba(199, 166, 106, 0.28);
+  padding: 2rem 0 1rem;
+}
+
+.library-principles h2 {
+  text-align: center;
+}
+
+.library-principles > p {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+.area-grid div {
+  border: 1px solid rgba(199, 166, 106, 0.28);
+  background: rgba(199, 166, 106, 0.045);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.area-grid strong, .area-grid span {
+  display: block;
+}
+
+.area-grid strong {
+  color: var(--secondary);
+  margin-bottom: 0.35rem;
+}
+
+.area-grid span {
+  color: var(--darkgray);
+  font-size: 0.85rem;
+}
+
+@media (max-width: 800px) {
+  .library-books { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.4rem 1rem; }
+  .area-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 420px) {
+  .library-books { gap: 1rem 0.75rem; }
+  .book-cover { padding: 0.7rem; }
+  .book-subtitle { font-size: 0.65rem; }
+}
