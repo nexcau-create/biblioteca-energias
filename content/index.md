@@ -12,28 +12,28 @@ title: Biblioteca do Conhecimento Magístico
 </header>
 
 <section class="library-books">
-  <a class="book-card book-energies" href="livros/energias/">
-    <span class="book-cover"><span class="book-number">I</span><span class="book-title">ENERGIAS</span><span class="book-subtitle">Cristais • Elementos • Habilidades</span><span class="book-ornament">✧</span></span>
+  <a class="book-card book-energias" href="livros/energias/">
+    <img class="book-cover-image" src="capas/energias.svg" alt="Capa do Livro I — Energias" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro I — Energias</strong><small>Catálogo de energias cristalizadas</small></span>
   </a>
-  <a class="book-card book-codes" href="livros/codigos/">
-    <span class="book-cover"><span class="book-number">II</span><span class="book-title">CÓDIGOS</span><span class="book-subtitle">Sequências • Estruturas • Aplicações</span><span class="book-ornament">⌘</span></span>
+  <a class="book-card book-codigos" href="livros/codigos/">
+    <img class="book-cover-image" src="capas/codigos.svg" alt="Capa do Livro II — Códigos" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro II — Códigos</strong><small>Catálogo de códigos</small></span>
   </a>
-  <a class="book-card book-laws" href="livros/leis/">
-    <span class="book-cover"><span class="book-number">III</span><span class="book-title">LEIS</span><span class="book-subtitle">Princípios • Propriedades</span><span class="book-ornament">⚖</span></span>
+  <a class="book-card book-leis" href="livros/leis/">
+    <img class="book-cover-image" src="capas/leis.svg" alt="Capa do Livro III — Leis" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro III — Leis</strong><small>Catálogo de leis e princípios</small></span>
   </a>
-  <a class="book-card book-runes" href="livros/runas/">
-    <span class="book-cover"><span class="book-number">IV</span><span class="book-title">RUNAS</span><span class="book-subtitle">Grafias • Nomes • Significados</span><span class="book-ornament">ᚨ</span></span>
+  <a class="book-card book-runas" href="livros/runas/">
+    <img class="book-cover-image" src="capas/runas.svg" alt="Capa do Livro IV — Runas" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro IV — Runas</strong><small>Catálogo de runas</small></span>
   </a>
-  <a class="book-card book-symbolisms" href="livros/simbologias/">
-    <span class="book-cover"><span class="book-number">V</span><span class="book-title">SIMBOLOGIAS</span><span class="book-subtitle">Sistemas • Interpretações</span><span class="book-ornament">✥</span></span>
+  <a class="book-card book-simbologias" href="livros/simbologias/">
+    <img class="book-cover-image" src="capas/simbologias.svg" alt="Capa do Livro V — Simbologias" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro V — Simbologias</strong><small>Catálogo de sistemas simbólicos</small></span>
   </a>
-  <a class="book-card book-symbols" href="livros/simbolos/">
-    <span class="book-cover"><span class="book-number">VI</span><span class="book-title">SÍMBOLOS</span><span class="book-subtitle">Formas • Representações</span><span class="book-ornament">☼</span></span>
+  <a class="book-card book-simbolos" href="livros/simbolos/">
+    <img class="book-cover-image" src="capas/simbolos.svg" alt="Capa do Livro VI — Símbolos" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro VI — Símbolos</strong><small>Catálogo de símbolos individuais</small></span>
   </a>
 </section>
