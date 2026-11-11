@@ -32,6 +32,10 @@ title: Modelo de ficha de energia
 
 [Adicionar a ilustração correspondente.]
 
+## Indexação da pesquisa pública
+
+Na página pública de cada energia (a página que exibe somente a ilustração), incluir um bloco HTML invisível com os termos de busca extraídos desta ficha. O bloco deve conter nome de invocação, habilidade principal, efeitos, áreas predominante e secundárias, elemento, cristal e sinônimos relevantes. Usar `<div style="display:none" aria-hidden="true">...</div>` para que o texto entre no índice do buscador sem aparecer visualmente na página. Não copiar a ficha completa para a página pública.
+
 ## Histórico de revisão
 
 | Versão | Data | Alteração |
