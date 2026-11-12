@@ -14,9 +14,9 @@ Este catálogo reúne as ilustrações das energias registradas na Biblioteca. C
 
 **A**
 
+- [Aeito](./aeito)
 - [Afaeu](./afaeu)
 - [Afafel](./afafel)
-- [Aeito](./aeito)
 
 Novas ilustrações serão acrescentadas conforme as energias forem aprovadas para inclusão no catálogo.
 
