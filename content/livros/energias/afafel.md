@@ -1,6 +1,6 @@
 ---
 title: Afafel
-description: Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Invocação: Fogo Afafel.
+description: "Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Invocação: Fogo Afafel."
 ---
 
 # Afafel
