@@ -13,6 +13,3 @@
 - Manifesta no sistema físico energias de harmonização.
 - Alinha, no sistema físico, a nutrição para os pulmões, coração e sangue.
 
-## Ilustração
-
-Arquivo visual: `apeio-sepuo.webp`
