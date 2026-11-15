@@ -6,6 +6,8 @@ Este documento define a estrutura textual das fichas. As páginas devem ser leve
 
 - Não inserir imagens nas fichas nem nos catálogos.
 - Não inventar campos, classificações, significados, níveis, origens ou formas de invocação.
+
+- **Nome de invocação das energias:** sempre formar pela combinação literal do elemento primário seguido do nome da energia (Elemento + Nome), por exemplo: `Ar Aeito`, `Fogo Afafel`, `Raio Agaei`. Não deixar pendente quando ambos os dados estiverem cadastrados; não inverter a ordem.
 - Usar “Não informado” ou “Pendente de definição” quando um dado ainda não tiver sido fornecido.
 - Preservar o conteúdo técnico fornecido pelo responsável pelo estudo; corrigir apenas ortografia e clareza sem alterar o sentido.
 - Usar títulos curtos, tabelas de identificação, listas para efeitos e seções de observações.
