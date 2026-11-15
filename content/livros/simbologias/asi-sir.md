@@ -1,12 +1,24 @@
 ---
 title: Asi Sir
-description: "Simbologia Asi Sir, linhagem Orion, origem Astral. Tipo defensivo: materializa escudo nos sistemas energético, mental, espiritual e físico, corpos e campos contra ataques mágicos."
+description: Simbologia Asi Sir, linhagem Orion, origem Astral. Defensiva: materializa escudos nos sistemas energético, mental, espiritual e físico, corpos e campos contra ataques mágicos.
 ---
 
 # Asi Sir
 
-![Ilustração da simbologia Asi Sir — linhagem Orion, origem Astral, proteção defensiva](asi-sir.webp)
+## Identificação
 
-<div style="display:none" aria-hidden="true">
-Índice de pesquisa: Asi Sir; simbologia Asi Sir; simbologias Orion; linhagem Orion; origem Astral; simbologia defensiva; escudo energético; escudo mental; escudo espiritual; escudo físico; proteção dos sistemas energético mental espiritual e físico; proteção de corpos e campos; ataques mágicos; defesa mágica; materialização de escudo.
-</div>
+| Campo | Informação |
+|---|---|
+| Nome | Asi Sir |
+| Categoria | Simbologia |
+| Linhagem | Orion |
+| Origem | Astral |
+| Especialidade | Defensiva |
+
+## Eficiência principal
+
+Materializa escudo nos sistemas energético, mental, espiritual e físico, corpos e campos contra ataques mágicos.
+
+## Termos de pesquisa
+
+Asi Sir, simbologia Asi Sir, Orion, origem Astral, simbologia defensiva, escudo, proteção dos sistemas energético, mental, espiritual e físico, proteção de corpos e campos, ataques mágicos, defesa mágica.
