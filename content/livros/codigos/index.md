@@ -1,21 +1,17 @@
 ---
-title: Livro II — Catálogo de Códigos
+title: Livro II — Códigos
 ---
 
-# Livro II — Catálogo de Códigos
+# Livro II — Códigos
 
-![Capa do Livro II — Códigos](../../capas/codigos.jpg)
-
-Este catálogo reúne os códigos registrados na Biblioteca do Conhecimento Magístico. Cada entrada pública apresenta sua ilustração e os dados essenciais para identificação e pesquisa.
+Catálogo textual dos códigos estudados e registrados na Biblioteca do Conhecimento Magístico. Cada código possui uma página individual com identificação, habilidade principal, campo de atuação, observações e estado editorial.
 
 ## Índice alfabético
 
-**A · B · C · D · E · F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z**
-
 **A**
 
-- [Apy](./apy) — Linhagem Orion · Origem Astral
+- [Apy](./apy) — Orion · Astral · Em análise
 
-Novos códigos serão acrescentados em ordem alfabética conforme forem estudados e aprovados para inclusão no catálogo.
+Novos códigos serão incorporados em ordem alfabética.
 
 [Voltar à Biblioteca](../../)
