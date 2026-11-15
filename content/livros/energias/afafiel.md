@@ -54,3 +54,17 @@ Pendente de classificação. A divisão por áreas será incluída quando houver
 ## Termos de pesquisa
 
 Afafiel, Aragonita esverdeada, Matéria escura, linhagem Sirio, origem Astral, instabilidades emocionais, entidades de luz, transmissores de energias sutis, aura, canais energéticos, campo energético, harmonização, chakras, chakra frontal, intuição, sistema sensorial, parceiros de afinidade, sistema mental, implantes, tecnologias, manipulações, interferências, vínculos negativos, corpo emocional, juramentos, dívidas kármicas.
+
+## Análise interpretativa
+
+**Leitura funcional:** Afafiel combina expansão e harmonização do campo com organização sensorial e proteção mental.
+
+**Função principal interpretada:** ampliar e organizar o campo, selecionando estruturas para harmonização e apoiando a estabilidade sensorial.
+
+**Funções secundárias:** alinhamento e limpeza de chakras (com foco no frontal), apoio à intuição organizada e filtragem do sistema mental contra interferências descritas na ficha.
+
+**Relação entre habilidades:** expansão amplia o campo de trabalho; seleção direciona a harmonização; limpeza e alinhamento organizam pontos específicos; restauração sensorial busca estabilizar a experiência. A proteção mental é complementar.
+
+**Possíveis aplicações:** harmonização e expansão; organização sensorial; apoio a foco e clareza intuitiva; complemento de proteção mental.
+
+**Limites:** não há classificação por áreas nem critérios para identificar estruturas ou interferências. Referências a implantes, tecnologias e dívidas kármicas pertencem ao modelo do catálogo, não são constatações objetivas.
