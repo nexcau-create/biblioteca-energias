@@ -5,8 +5,18 @@ description: Runa Aku, origem Petir. Manifesta memórias harmônicas e felizes e
 
 # Aku
 
-![Ilustração da runa Aku — representação abstrata de memórias harmônicas e felizes](aku.webp)
+## Identificação
 
-<div style="display:none" aria-hidden="true">
-Índice de pesquisa: Aku; runa Aku; runas; origem Petir; memórias harmônicas; memórias felizes; manifestação de memórias positivas; tratamento de memórias traumáticas; memórias traumáticas; harmonização da memória; lembranças felizes; lembranças positivas; memória emocional.
-</div>
+| Campo | Informação |
+|---|---|
+| Nome | Aku |
+| Categoria | Runa |
+| Origem | Petir |
+
+## Eficiência principal
+
+Manifesta memórias harmônicas e felizes e auxilia a tratar memórias traumáticas.
+
+## Termos de pesquisa
+
+Aku, runa Aku, Petir, memórias harmônicas, memórias felizes, lembranças positivas, memória emocional, tratamento de memórias traumáticas.
