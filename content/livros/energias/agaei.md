@@ -56,3 +56,17 @@ Pendente de classificação. A divisão por áreas será incluída quando houver
 ## Termos de pesquisa
 
 Agaei, Fluorita arco-íris, linhagem Laurp, origem Astral, elemento Raio, sobrecargas energéticas, ruídos vibracionais, ruídos energéticos, restauração de energias, camadas do campo, campo energético, regeneração energética, amplificação de energias, estabilização dos corpos e campos, canais energéticos, sistema espiritual, chakras, miasmas, cordões energéticos, emoções, memórias traumáticas, clareza mental.
+
+## Análise interpretativa
+
+**Leitura funcional:** Agaei tem perfil regulador: absorve sobrecargas, detecta ruídos, restaura, regenera, estabiliza e fortalece canais.
+
+**Função principal interpretada:** reduzir sobrecargas e ruídos percebidos no modelo, restaurando e estabilizando o campo.
+
+**Funções secundárias:** purificação espiritual, limpeza de miasmas em cordões, ancoragem em chakras, estabilização emocional e clareza mental.
+
+**Relação entre habilidades:** detecção e absorção podem iniciar; restauração e regeneração recompõem; estabilização e fortalecimento sustentam. A limpeza é função específica complementar.
+
+**Possíveis aplicações:** regulação após trabalho intenso; estabilização; limpeza complementar; consolidação do equilíbrio.
+
+**Limites:** não define como medir sobrecarga ou ponto de encerramento. Não presumir que amplificar seja sempre adequado; a ficha também enfatiza absorção e estabilização.
