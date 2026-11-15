@@ -1,6 +1,6 @@
 ---
 title: Afafel
-description: Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Halita salmão. Invocação: Fogo Afafel. Atua sobre camadas do campo, corpo etérico, emoções e memórias.
+description: "Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Halita salmão. Invocação: Fogo Afafel. Atua sobre camadas do campo, corpo etérico, emoções e memórias."
 ---
 
 # Afafel
