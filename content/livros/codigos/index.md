@@ -10,7 +10,7 @@ Catálogo textual dos códigos estudados e registrados na Biblioteca do Conhecim
 
 **A**
 
-- [Aorion](./aorion) — Asuf · Primordial · Registro inicial
+- [Asuf](./asuf) — Aorion · Primordial · Registro inicial
 - [Apy](./apy) — Orion · Astral · Em análise
 
 Novos códigos serão incorporados em ordem alfabética.
