@@ -55,3 +55,17 @@ Pendente de classificação. A divisão por áreas será incluída quando houver
 ## Termos de pesquisa
 
 Afecit, Turmalina indicolita, linhagem Siriorit, origem Astral, elemento Ar, magnetização de energias, refinamento de frequência, campo energético, chakras, camadas do campo, corpo astral, estruturas energéticas, corpo mental inferior, sincronização de corpos, sistema espiritual, vínculos kármicos, crenças limitantes, energias densas, memórias positivas, canais energéticos, larvas astrais, miasmas, vampirismo energético, emoções cristalizadas, confusões mentais, blindagem energética.
+
+## Análise interpretativa
+
+**Leitura funcional:** Afecit é uma ficha de integração e estabilização. Magnetização e refinamento aparecem junto de sincronização de corpos e campos, fixação de estruturas e restauração espiritual.
+
+**Função principal interpretada:** sincronizar e estabilizar estruturas energéticas, refinando energias e favorecendo integração.
+
+**Funções secundárias:** limpeza de vínculos e energias densas; harmonização de chakras e canais; restauração de memórias positivas; blindagem contra interferências descritas.
+
+**Relação entre habilidades:** magnetização atrai; refinamento qualifica; fixação e sincronização organizam; restauração e blindagem sustentam. A limpeza pode anteceder a integração.
+
+**Possíveis aplicações:** sincronização e estabilização geral; integração após limpeza; harmonização de chakras e canais; manutenção de fluxo organizado.
+
+**Limites:** não há classificação por áreas nem parâmetros objetivos de frequência. Não converter categorias como larvas astrais, miasmas ou vampirismo em diagnósticos factuais.
