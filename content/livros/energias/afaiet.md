@@ -55,3 +55,17 @@ Pendente de classificação. A divisão por áreas será incluída quando houver
 ## Termos de pesquisa
 
 Afaiet, Quartzo leitoso, linhagem Sirio, origem Astral, elemento Ar, energias densas, energias negativas, queima de magias, regeneração energética, campo energético, canais energéticos, camadas do campo, ataques energéticos, acoplamentos energéticos, sistema esquelético, vitalidade, crenças limitantes, traumas mentais, sistema mental, sistema sensorial, URI, clarividência, formas-pensamento, blindagem energética, traumas emocionais, pensamentos negativos, medos, pensamentos suicidas.
+
+## Análise interpretativa
+
+**Leitura funcional:** Afaiet apresenta limpeza e regeneração abrangentes: dissolve conteúdos densos, neutraliza acoplamentos, regenera o campo e integra blindagem.
+
+**Função principal interpretada:** limpar conteúdos energéticos indesejados e favorecer a recomposição do campo, canais e camadas.
+
+**Funções secundárias:** trabalhar crenças limitantes e conteúdos mentais/emocionais; apoiar a vitalidade no modelo energético; integrar blindagem contra formas-pensamento.
+
+**Relação entre habilidades:** dissolução e neutralização compõem a limpeza; regeneração recompõe; fluxo harmônico e blindagem sustentam o estado posterior. A ordem é uma proposta interpretativa, não uma regra da ficha.
+
+**Possíveis aplicações:** limpeza seguida de regeneração; reorganização após sobrecarga; proteção complementar; harmonização de crenças e conteúdos emocionais.
+
+**Limites:** não há classificação por áreas nem critérios de aplicação. Pensamentos suicidas exigem apoio humano e profissional; esta energia não deve ser apresentada como tratamento ou prevenção. No Brasil, CVV 188 e emergência SAMU 192.
