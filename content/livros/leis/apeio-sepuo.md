@@ -26,3 +26,17 @@ description: "Lei Apeio Sepuo, origem Sagrada, nível 3. Filtragem e desmaterial
 ## Termos de pesquisa
 
 Apeio Sepuo, lei Sagrada, nível 3, sistema físico, filtragem energética, estruturas de energia, implantes, desmaterialização, estruturas negativas, implantes contrários, permissões de observação do campo, ectoplasma, amplificação do sistema físico, harmonização, alinhamento, pulmões, coração, sangue.
+
+## Análise interpretativa
+
+**Leitura funcional:** Apeio Sepuo reúne filtragem e desmaterialização de estruturas descritas como negativas no sistema físico, separação de permissões de observação, envolvimento com ectoplasma e harmonização. Registra também alinhamento nutricional relacionado a pulmões, coração e sangue.
+
+**Função principal interpretada:** filtragem e reorganização protetiva do sistema físico, segundo a linguagem do modelo.
+
+**Funções secundárias:** envolvimento/amplificação com ectoplasma, harmonização e alinhamento de aspectos ligados à nutrição dos sistemas citados.
+
+**Relação entre habilidades:** filtragem e separação selecionam; desmaterialização remove; envolvimento e harmonização recompõem. A ficha não estabelece sequência.
+
+**Possíveis aplicações:** estruturação e harmonização do campo associado ao corpo; complemento de proteção; organização após limpeza.
+
+**Limites:** menções a pulmões, coração, sangue e implantes não significam diagnóstico, tratamento de doença ou remoção física de implantes. Sintomas e doenças exigem avaliação profissional.
