@@ -47,3 +47,17 @@ description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safir
 ## Termos de pesquisa
 
 Afaeu, linhagem Orion, origem Divina, Raio, safira amarela, magnetização, transmutação energética, ancoragem de energias superiores, purificação, limpeza, aura, estruturas energéticas, alinhamento sutil, identidade energética, fractais, seres negativos, consciências contrárias, sistema sensorial, contaminações do campo, vícios, fuga emocional, memórias traumáticas, portais, artefatos, objetos contaminados, amarras de ambientes e comportamentais.
+
+## Análise interpretativa
+
+**Leitura funcional:** Afaeu é uma energia de transformação e condução. Magnetização, atração, transmutação e ancoragem descrevem etapas relacionadas: reunir energias, modificar sua condição e fixá-las em estruturas ou padrões.
+
+**Função principal interpretada:** reorganizar e reorientar energias do corpo energético, com ênfase em magnetização, transmutação e ancoragem.
+
+**Funções secundárias:** purificação de campos, objetos e portais; apoio à regeneração do sistema sensorial; e isolamento de amarras comportamentais ou ambientais, conforme a descrição da ficha.
+
+**Relação entre habilidades:** magnetização e atração parecem preparar o campo para receber ou concentrar energias; a transmutação modifica a condição dessas energias; a ancoragem procura manter o novo arranjo. A harmonização da identidade energética e dos fractais aparece como resultado integrador possível.
+
+**Possíveis aplicações em protocolos:** preparação e ancoragem de energias; purificação de objetos ou espaços; reorganização de padrões energéticos; complemento de protocolos de limpeza que precisem de uma etapa posterior de estabilização.
+
+**Limites e cuidados:** a ficha não define classificação Corpo/Mente/Espírito nem a ordem operacional entre as habilidades. Neutralização de seres e isolamento de vínculos são descrições internas do sistema, sem validação independente. Não presumir que toda aplicação exija todas as funções.
