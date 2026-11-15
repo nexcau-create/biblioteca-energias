@@ -14,7 +14,7 @@ description: "Energia Afecit, linhagem Siriorit, origem Astral, elemento Ar. Tur
 | Origem | Astral |
 | Elemento primário | Ar |
 | Cristal | Turmalina indicolita |
-| Nome de invocação | Pendente de definição |
+| Nome de invocação | **Ar Afecit** |
 | Área predominante | Pendente de classificação |
 | Áreas secundárias | Pendente de classificação |
 | Estado editorial | Registrada |
