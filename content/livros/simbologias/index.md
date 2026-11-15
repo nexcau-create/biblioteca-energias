@@ -1,11 +1,17 @@
 ---
-title: Livro SIMBOLOGIAS
+title: Livro V — Simbologias
 ---
 
-![Capa do Livro SIMBOLOGIAS — Biblioteca do Conhecimento Magístico](../../capas/simbologias.jpg)
+# Livro V — Simbologias
 
-# Catálogo de Simbologias
+Catálogo textual das simbologias estudadas e registradas na Biblioteca do Conhecimento Magístico. Cada ficha apresenta linhagem, origem, especialidade e eficiência principal, conforme os dados disponíveis.
 
-## A
+## Índice alfabético
 
-- [Asi Sir](asi-sir) — Linhagem Orion · Origem Astral · Defensivo
+**A**
+
+- [Asi Sir](./asi-sir) — Orion · Astral · Defensiva
+
+Novas simbologias serão incorporadas em ordem alfabética.
+
+[Voltar à Biblioteca](../../)
