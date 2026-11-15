@@ -13,6 +13,7 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Aeito](./aeito) — Orion · Astral · Ar
 - [Afaeu](./afaeu) — Orion · Divina · Raio
 - [Afafel](./afafel) — Seurio · Astral · Fogo
+- [Afafiel](./afafiel) — Sirio · Astral · Matéria escura
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
