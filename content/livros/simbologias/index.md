@@ -10,6 +10,7 @@ Catálogo textual das simbologias estudadas e registradas na Biblioteca do Conhe
 
 **A**
 
+- [Agei Peui](./agei-peui) — Oriom · Astral · Harmonização
 - [Asi Sir](./asi-sir) — Orion · Astral · Defensiva
 
 Novas simbologias serão incorporadas em ordem alfabética.
