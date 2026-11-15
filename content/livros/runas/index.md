@@ -1,11 +1,17 @@
 ---
-title: Livro RUNAS
+title: Livro IV — Runas
 ---
 
-![Capa do Livro RUNAS — Biblioteca do Conhecimento Magístico](../../capas/runas.jpg)
+# Livro IV — Runas
 
-# Catálogo de Runas
+Catálogo textual das runas estudadas e registradas na Biblioteca do Conhecimento Magístico. Não será atribuído um desenho gráfico à runa quando sua representação não estiver definida no estudo.
 
-## A
+## Índice alfabético
 
-- [Aku](aku) — Origem Petir
+**A**
+
+- [Aku](./aku) — Origem Petir
+
+Novas runas serão incorporadas em ordem alfabética.
+
+[Voltar à Biblioteca](../../)
