@@ -1,6 +1,6 @@
 ---
 title: Afaeu
-description: Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safira amarela. Magnetização, transmutação, ancoragem e purificação energética.
+description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safira amarela. Magnetização, transmutação, ancoragem e purificação energética."
 ---
 
 # Afaeu
