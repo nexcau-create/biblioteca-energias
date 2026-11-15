@@ -11,6 +11,7 @@ Catálogo textual das runas estudadas e registradas na Biblioteca do Conheciment
 **A**
 
 - [Aku](./aku) — Origem Petir
+- [Asiuf](./asiuf) — Origem Petir
 
 Novas runas serão incorporadas em ordem alfabética.
 
