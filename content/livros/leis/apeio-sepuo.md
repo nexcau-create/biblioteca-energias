@@ -1,12 +1,28 @@
 ---
 title: Apeio Sepuo
-description: Lei Apeio Sepuo, origem Sagrada, nível 3. Eficácia aplicada ao sistema físico.
+description: Lei Apeio Sepuo, origem Sagrada, nível 3. Filtragem e desmaterialização de estruturas e implantes negativos no sistema físico; harmonização e alinhamento físico.
 ---
 
 # Apeio Sepuo
 
-![Ilustração da Lei Apeio Sepuo — origem Sagrada, nível 3](apeio-sepuo.webp)
+## Identificação
 
-<div style="display:none" aria-hidden="true">
-Índice de pesquisa: Apeio Sepuo; Lei Apeio Sepuo; leis sagradas; nível 3; sistema físico; filtragem energética; estruturas de energia; implantes energéticos; desmaterialização de estruturas negativas; estruturas contrárias; implantes negativos; permissões de observação do campo; separação de permissões; amplificação do sistema físico; ectoplasma; envolvimento do corpo; energias de harmonização; nutrição dos pulmões; coração; sangue; alinhamento físico.
-</div>
+| Campo | Informação |
+|---|---|
+| Nome | Apeio Sepuo |
+| Categoria | Lei |
+| Origem | Sagrada |
+| Nível | 3 |
+
+## Eficácia
+
+- Filtra, no sistema físico, estruturas de energias e implantes.
+- Desmaterializa as estruturas e os implantes contrários e negativos.
+- Separa, no sistema físico, as permissões de observação do campo.
+- Amplifica o sistema físico, envolvendo o corpo com ectoplasma.
+- Manifesta, no sistema físico, energias de harmonização.
+- Alinha, no sistema físico, a nutrição para os pulmões, o coração e o sangue.
+
+## Termos de pesquisa
+
+Apeio Sepuo, lei Sagrada, nível 3, sistema físico, filtragem energética, estruturas de energia, implantes, desmaterialização, estruturas negativas, implantes contrários, permissões de observação do campo, ectoplasma, amplificação do sistema físico, harmonização, alinhamento, pulmões, coração, sangue.
