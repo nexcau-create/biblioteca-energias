@@ -17,7 +17,7 @@ title: Biblioteca do Conhecimento Magístico
     <span class="book-caption"><strong>Livro I — Energias</strong><small>Catálogo de energias cristalizadas</small></span>
   </a>
   <a class="book-card book-codigos" href="livros/codigos/">
-    <img class="book-cover-image" src="capas/codigos.svg" alt="Capa do Livro II — Códigos" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
+    <img class="book-cover-image" src="capas/codigos.jpg" alt="Capa do Livro II — Códigos" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro II — Códigos</strong><small>Catálogo de códigos</small></span>
   </a>
   <a class="book-card book-leis" href="livros/leis/">
