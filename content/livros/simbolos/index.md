@@ -10,6 +10,7 @@ Catálogo textual dos símbolos estudados e registrados na Biblioteca do Conheci
 
 **A**
 
+- [Alto](./alto) — Figlei · Divina · Restauração
 - [Alyi](./alyi) — Peuti · Primordial · Catalisação
 
 Novos símbolos serão incorporados em ordem alfabética.
