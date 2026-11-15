@@ -40,3 +40,17 @@ Não foram informadas, até o momento, forma de invocação, eficiência secund�
 ## Termos de pesquisa
 
 Apy, código Apy, Orion, Astral, decodificação energética, dissolução energética, dados energéticos negativos, nós energéticos negativos, fractais negativos, consciências associadas aos fractais, frequências negativas, estruturas energéticas negativas, processos de consciência, tomada de decisões.
+
+## Análise interpretativa
+
+**Leitura funcional:** Apy trabalha com informação energética: decodificar dados e nós considerados negativos e dissolvê-los. Seu foco específico são estruturas informacionais, fractais e frequências.
+
+**Função principal interpretada:** decodificação e dissolução de estruturas informacionais energéticas indesejadas.
+
+**Funções secundárias:** possível apoio a trabalhos sobre padrões que, no modelo, repercutiriam na consciência e na tomada de decisões.
+
+**Relação entre habilidades:** decodificação pode identificar/ler o conteúdo; dissolução intervém sobre o conteúdo identificado. A ficha deixa em aberto se são simultâneas ou sequenciais; não fixar ordem até confirmação.
+
+**Possíveis aplicações:** etapa especializada de identificação e dissolução de nós ou dados energéticos, seguida de restauração/estabilização por outro componente.
+
+**Limites:** não há invocação, eficiência secundária ou condições de aplicação. Não atribuir capacidade de revelar fatos objetivos, controlar decisões ou diagnosticar estados psicológicos.
