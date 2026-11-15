@@ -1,6 +1,6 @@
 ---
 title: Aeito
-description: Energia Aeito, linhagem Orion, origem Astral, elemento Ar. Turmalina amarela. Proteção e restauração do campo áurico e energético.
+description: "Energia Aeito, linhagem Orion, origem Astral, elemento Ar. Turmalina amarela. Proteção e restauração do campo áurico e energético."
 ---
 
 # Aeito
