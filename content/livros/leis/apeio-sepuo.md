@@ -1,6 +1,6 @@
 ---
 title: Apeio Sepuo
-description: Lei Apeio Sepuo, origem Sagrada, nível 3. Filtragem e desmaterialização de estruturas e implantes negativos no sistema físico; harmonização e alinhamento físico.
+description: "Lei Apeio Sepuo, origem Sagrada, nível 3. Filtragem e desmaterialização de estruturas e implantes negativos no sistema físico; harmonização e alinhamento físico."
 ---
 
 # Apeio Sepuo
