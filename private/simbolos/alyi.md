@@ -9,6 +9,3 @@
 
 Catalisa energias para equilibrar a mente.
 
-## Ilustração
-
-Arquivo visual: `alyi.webp`
