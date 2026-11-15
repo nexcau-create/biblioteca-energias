@@ -1,23 +1,19 @@
 ---
-title: Livro I — Catálogo de Energias
+title: Livro I — Energias
 ---
 
-# Livro I — Catálogo de Energias
+# Livro I — Energias
 
-![Capa do Livro I — Energias](../../capas/energias.jpg)
-
-Este catálogo reúne as ilustrações das energias registradas na Biblioteca. Cada entrada pública apresenta a imagem correspondente.
+Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecimento Magístico. Cada entrada possui uma ficha individual com identificação, formação, origem, elemento, efeitos e classificação, quando informados.
 
 ## Índice alfabético
 
-**A · B · C · D · E · F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z**
-
 **A**
 
-- [Aeito](./aeito)
-- [Afaeu](./afaeu)
-- [Afafel](./afafel)
+- [Aeito](./aeito) — Orion · Astral · Ar
+- [Afaeu](./afaeu) — Orion · Divina · Raio
+- [Afafel](./afafel) — Seurio · Astral · Fogo
 
-Novas ilustrações serão acrescentadas conforme as energias forem aprovadas para inclusão no catálogo.
+Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
 [Voltar à Biblioteca](../../)
