@@ -1,12 +1,56 @@
 ---
 title: Aeito
-description: Ilustração da energia Aeito, da Biblioteca do Conhecimento Magístico.
+description: Energia Aeito, linhagem Orion, origem Astral, elemento Ar. Turmalina amarela. Proteção e restauração do campo áurico e energético.
 ---
 
 # Aeito
 
-![Ilustração da energia Aeito — representação visual da energia Aeito](aeito-ilustracao.jpg)
+## Identificação
 
-<div style="display:none" aria-hidden="true">
-Índice de pesquisa: Ar Aeito; proteção energética; proteger aura; restauração da aura; restaurar campo áurico; campo energético; liberar camadas do campo; estabilização da prosperidade; equilíbrio mental; equilíbrio emocional; alinhamento de corpos sutis; alinhamento de chakras; campo de proteção; campos protetores; identificação de ataques; identificação de invasões espirituais; seres contrários; seres negativos; seres trevosos; ancestralidades trevosas; bloqueio de ancestralidades; dissipação de vícios; comportamentos de vícios; traumas de vidas passadas; ressonâncias ativas; harmonização do sistema mental; limpeza de memórias traumáticas; regeneração de pensamentos de manipulação; despertar do campo físico; integração do sistema energético; Espírito; Mente; Corpo; turmalina amarela; cristal; energia astral; elemento Ar; linhagem Orion.
-</div>
+| Campo | Informação |
+|---|---|
+| Nome | Aeito |
+| Linhagem | Orion |
+| Origem | Astral |
+| Elemento primário | Ar |
+| Nome de invocação | **Ar Aeito** |
+| Cristal | Turmalina amarela |
+| Área predominante | Espírito |
+| Áreas secundárias | Mente e Corpo |
+| Estado editorial | Aprovada |
+
+## Cristal e formação
+
+Turmalina amarela com formação semelhante a um geodo, exterior de coloração oliva, estrias longitudinais e características de clivagem.
+
+## Efeitos e habilidades
+
+### Eficiência principal
+- Protege e restaura a aura.
+- Libera camadas do campo.
+- Estabiliza a prosperidade e os campos mental e emocional.
+- Alinha corpos sutis e chakras.
+- Cria campos de proteção.
+- Identifica ataques e invasões de seres contrários, negativos e trevosos.
+
+### Eficiência normal
+- Bloqueia ancestralidades trevosas.
+- Dissipa comportamentos de vícios.
+- Atua sobre traumas de vidas passadas com ressonâncias ativas, auxiliando a harmonização do sistema mental.
+
+### Eficiência baixa
+- Limpa memórias traumáticas.
+- Regenera pensamentos relacionados a manipulações.
+- Desperta o campo físico para integrar o sistema energético.
+
+## Classificação Corpo, Mente e Espírito
+
+**Espírito — predominante:** proteção e restauração da aura, liberação de camadas do campo, alinhamento dos corpos sutis e chakras, criação de campos protetores e identificação de interferências espirituais.
+
+**Mente — secundária:** estabilização dos campos mental e emocional, harmonização de traumas, dissipação de comportamentos de vícios e atuação sobre pensamentos relacionados a manipulações.
+
+**Corpo — secundária:** despertar do campo físico para integração com o sistema energético.
+
+## Termos de pesquisa
+
+Ar Aeito, Aeito, turmalina amarela, proteção energética, restauração da aura, campo áurico, camadas do campo, prosperidade, equilíbrio mental, equilíbrio emocional, corpos sutis, chakras, campos de proteção, ataques, invasões espirituais, ancestralidades trevosas, vícios, traumas de vidas passadas, memórias traumáticas, manipulação, campo físico.
