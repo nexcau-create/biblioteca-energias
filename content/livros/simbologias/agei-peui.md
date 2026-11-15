@@ -24,3 +24,17 @@ description: "Simbologia Agei Peui, linhagem Oriom, origem Astral. Especialidade
 ## Termos de pesquisa
 
 Agei Peui, simbologia Agei Peui, linhagem Oriom, origem Astral, harmonização, sistema sensorial, mapeamento de sabotagens, expansão do sistema energético, fluxo harmônico de energias, sistema mental, personalidade.
+
+## Análise interpretativa
+
+**Leitura funcional:** Agei Peui tem dois eixos: blindagem e mapeamento do sistema sensorial, junto da expansão energética e harmonização do sistema mental e da personalidade.
+
+**Função principal interpretada:** harmonizar o conjunto sensorial-mental e energético, com proteção sensorial.
+
+**Funções secundárias:** mapear o que a ficha chama de sabotagens; expandir o sistema energético; favorecer fluxo harmônico entre os sistemas citados.
+
+**Relação entre habilidades:** o mapeamento pode orientar a blindagem; a expansão favorece o fluxo; a harmonização integra os efeitos. A ficha não define etapas.
+
+**Possíveis aplicações:** harmonização integrada; proteção sensorial; estruturação do fluxo; reorganização após limpeza.
+
+**Limites:** não há definição operacional de “sabotagem” nem critério de identificação. Não presumir que pensamentos, percepções ou conflitos comuns sejam sabotagem externa.
