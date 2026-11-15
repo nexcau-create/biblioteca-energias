@@ -1,11 +1,17 @@
 ---
-title: Livro LEIS
+title: Livro III — Leis
 ---
 
-![Capa do Livro LEIS — Biblioteca do Conhecimento Magístico](../../capas/leis.jpg)
+# Livro III — Leis
 
-# Catálogo de Leis
+Catálogo textual das leis estudadas e registradas na Biblioteca do Conhecimento Magístico. Cada lei possui uma ficha individual com origem, nível e eficácia informada.
 
-## A
+## Índice alfabético
 
-- [Apeio Sepuo](apeio-sepuo) — Origem Sagrada · Nível 3
+**A**
+
+- [Apeio Sepuo](./apeio-sepuo) — Origem Sagrada · Nível 3
+
+Novas leis serão incorporadas em ordem alfabética.
+
+[Voltar à Biblioteca](../../)
