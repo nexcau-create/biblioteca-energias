@@ -14,6 +14,7 @@ description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safir
 | Origem | Divina |
 | Elemento primário | Raio |
 | Cristal | Safira amarela |
+| Nome de invocação | **Raio Afaeu** |
 | Formação | Fragmento bruto natural, com linhas e estrias em forma de fraturas paralelas e coloração metálica |
 | Área Corpo/Mente/Espírito | Pendente de classificação |
 
