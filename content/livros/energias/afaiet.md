@@ -14,7 +14,7 @@ description: "Energia Afaiet, linhagem Sirio, origem Astral, elemento Ar. Quartz
 | Origem | Astral |
 | Elemento primário | Ar |
 | Cristal | Quartzo leitoso |
-| Nome de invocação | Pendente de definição |
+| Nome de invocação | **Ar Afaiet** |
 | Área predominante | Pendente de classificação |
 | Áreas secundárias | Pendente de classificação |
 | Estado editorial | Registrada |
