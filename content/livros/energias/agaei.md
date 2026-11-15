@@ -14,7 +14,7 @@ description: "Energia Agaei, linhagem Laurp, origem Astral, elemento Raio. Fluor
 | Origem | Astral |
 | Elemento primário | Raio |
 | Cristal | Fluorita arco-íris |
-| Nome de invocação | Pendente de definição |
+| Nome de invocação | **Raio Agaei** |
 | Área predominante | Pendente de classificação |
 | Áreas secundárias | Pendente de classificação |
 | Estado editorial | Registrada |
