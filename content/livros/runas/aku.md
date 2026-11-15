@@ -1,6 +1,6 @@
 ---
 title: Aku
-description: Runa Aku, origem Petir. Manifesta memórias harmônicas e felizes e auxilia no tratamento de memórias traumáticas.
+description: "Runa Aku, origem Petir. Manifesta memórias harmônicas e felizes e auxilia no tratamento de memórias traumáticas."
 ---
 
 # Aku
