@@ -1,6 +1,6 @@
 ---
 title: Alyi
-description: Símbolo Alyi, linhagem Peuti, origem Primordial. Catalisa energias para equilibrar a mente.
+description: "Símbolo Alyi, linhagem Peuti, origem Primordial. Catalisa energias para equilibrar a mente."
 ---
 
 # Alyi
