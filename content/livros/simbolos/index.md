@@ -1,11 +1,17 @@
 ---
-title: Livro SÍMBOLOS
+title: Livro VI — Símbolos
 ---
 
-![Capa do Livro SÍMBOLOS — Biblioteca do Conhecimento Magístico](../../capas/simbolos.jpg)
+# Livro VI — Símbolos
 
-# Catálogo de Símbolos
+Catálogo textual dos símbolos estudados e registrados na Biblioteca do Conhecimento Magístico. Cada ficha apresenta linhagem, origem, especialidade e eficiência principal, conforme os dados disponíveis.
 
-## A
+## Índice alfabético
 
-- [Alyi](alyi) — Linhagem Peuti · Origem Primordial · Catalisação
+**A**
+
+- [Alyi](./alyi) — Peuti · Primordial · Catalisação
+
+Novos símbolos serão incorporados em ordem alfabética.
+
+[Voltar à Biblioteca](../../)
