@@ -16,6 +16,7 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Afafiel](./afafiel) — Sirio · Astral · Matéria escura
 - [Afaiet](./afaiet) — Sirio · Astral · Ar
 - [Afecit](./afecit) — Siriorit · Astral · Ar
+- [Agaei](./agaei) — Laurp · Astral · Raio
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
