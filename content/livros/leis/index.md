@@ -10,6 +10,7 @@ Catálogo textual das leis estudadas e registradas na Biblioteca do Conhecimento
 
 **A**
 
+- [Apeieo Suorp](./apeieo-suorp) — Origem Telúrica · Nível 1
 - [Apeio Sepuo](./apeio-sepuo) — Origem Sagrada · Nível 3
 
 Novas leis serão incorporadas em ordem alfabética.
