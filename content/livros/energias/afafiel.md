@@ -14,7 +14,7 @@ description: "Energia Afafiel, linhagem Sirio, origem Astral, elemento Matéria 
 | Origem | Astral |
 | Elemento primário | Matéria escura |
 | Cristal | Aragonita de cor esverdeada |
-| Nome de invocação | Pendente de definição |
+| Nome de invocação | **Matéria escura Afafiel** |
 | Área predominante | Pendente de classificação |
 | Áreas secundárias | Pendente de classificação |
 | Estado editorial | Registrada |
