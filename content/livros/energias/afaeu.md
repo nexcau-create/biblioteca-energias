@@ -1,12 +1,48 @@
 ---
 title: Afaeu
-description: Energia Afaeu, da linhagem Orion, origem Divina e elemento Raio. Safira amarela; magnetização, transmutação e ancoragem energética.
+description: Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safira amarela. Magnetização, transmutação, ancoragem e purificação energética.
 ---
 
 # Afaeu
 
-![Ilustração da energia Afaeu — safira amarela, linhagem Orion, elemento Raio](https://nexcau-create.github.io/biblioteca-energias/livros/energias/afaeu-ficha.webp)
+## Identificação
 
-<div style="display:none" aria-hidden="true">
-Índice de pesquisa: Afaeu; energia Afaeu; linhagem Orion; origem Divina; elemento Raio; safira amarela; fragmento bruto natural; fraturas paralelas; estrias metálicas; magnetização de energias; transmuta energias; transmutação do corpo energético; ancoragem de energias superiores; purificação energética; limpeza energética; atração de energias para a aura; estruturas energéticas; reprogramação de padrões de alinhamento sutis; sistema energético de identidade; fractais; neutralização de seres negativos; consciências negativas; consciências contrárias; magnetização para regeneração do sistema sensorial; contaminações do campo; bloqueio de vícios; fuga emocional; memórias traumáticas; purificação de portais; purificação de artefatos; purificação de itens e objetos; rompimento de amarras de ambientes; isolamento espiritual; amarras comportamentais; objetos contaminados.
-</div>
+| Campo | Informação |
+|---|---|
+| Nome | Afaeu |
+| Linhagem | Orion |
+| Origem | Divina |
+| Elemento primário | Raio |
+| Cristal | Safira amarela |
+| Formação | Fragmento bruto natural, com linhas e estrias em forma de fraturas paralelas e coloração metálica |
+| Área Corpo/Mente/Espírito | Pendente de classificação |
+
+## Efeitos e habilidades
+
+### Eficiência principal
+- Transmite magnetização de energias.
+- Transmuta energias do corpo energético.
+- Ancora energias superiores.
+- Auxilia na purificação e limpeza.
+- Atrai energias para a aura e estruturas energéticas.
+- Ancora energias para reprogramar padrões de alinhamento sutis.
+- Harmoniza o sistema energético de identidade e fractais.
+
+### Eficiência normal
+- Neutraliza, no sistema energético, seres e consciências negativas e contrárias.
+- Magnetiza energias para regenerar o sistema sensorial de contaminações do campo.
+- Bloqueia vícios, fuga emocional e memórias traumáticas.
+- Estimula a purificação energética de portais, artefatos, itens e objetos.
+
+### Eficiência baixa
+- Rompe amarras de ambientes.
+- Isola o sistema espiritual de vícios e amarras comportamentais.
+- Restaura o sistema energético de objetos contaminados.
+
+## Classificação Corpo, Mente e Espírito
+
+**Pendente.** A área predominante e as áreas secundárias ainda não foram definidas. Nenhuma classificação foi atribuída.
+
+## Termos de pesquisa
+
+Afaeu, linhagem Orion, origem Divina, Raio, safira amarela, magnetização, transmutação energética, ancoragem de energias superiores, purificação, limpeza, aura, estruturas energéticas, alinhamento sutil, identidade energética, fractais, seres negativos, consciências contrárias, sistema sensorial, contaminações do campo, vícios, fuga emocional, memórias traumáticas, portais, artefatos, objetos contaminados, amarras de ambientes e comportamentais.
