@@ -27,3 +27,17 @@ A representação gráfica da runa e outras informações específicas não fora
 ## Termos de pesquisa
 
 Asiuf, runa Asiuf, origem Petir, energia do amor, calma mental, alinhamento dos pensamentos, paz, relacionamentos conflituosos.
+
+## Análise interpretativa
+
+**Leitura funcional:** Asiuf combina calma mental, alinhamento de pensamentos, paz e aplicação relacional. Seu papel descrito é harmonizador, sem ação específica de limpeza ou proteção.
+
+**Função principal interpretada:** favorecer serenidade e alinhamento mental.
+
+**Funções secundárias:** apoiar uma postura pacífica e complementar trabalhos voltados a relacionamentos conflituosos.
+
+**Relação entre habilidades:** acalmar e alinhar são funções próximas; manter a paz sustenta esse estado. A aplicação relacional não implica controlar terceiros nem garantir reconciliação.
+
+**Possíveis aplicações:** harmonização mental; preparação para diálogo e resolução pacífica; complemento de protocolos emocionais.
+
+**Limites:** não há representação gráfica nem instruções de ativação. Não atribuir poder de alterar a vontade de outra pessoa.
