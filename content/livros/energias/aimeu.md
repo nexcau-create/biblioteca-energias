@@ -16,8 +16,8 @@ description: "Energia Aimeu, linhagem Aurio, origem Astral, elemento Ar. Fluorit
 | Cristal | Fluorita amarela |
 | Formação | Fragmento bruto com ponta única, linhas de crescimento e rajadas leitosas |
 | Nome de invocação | **Ar Aimeu** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Espírito |
+| Áreas secundárias | Mente e Corpo |
 | Estado editorial | Registrada |
 
 ## Efeitos e habilidades
@@ -49,7 +49,12 @@ description: "Energia Aimeu, linhagem Aurio, origem Astral, elemento Ar. Fluorit
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A ficha descreve habilidades nos três campos, mas não define predominância ou classificação oficial.
+- **Área predominante:** Espírito.
+- **Áreas secundárias:** Mente e Corpo.
+- **Grau de confiança da classificação:** Alta.
+- **Justificativa:** Manifestação, conexão e proteção da aura, limpeza do corpo astral e harmonização de estruturas energéticas formam o eixo principal. Concentração, clareza e refinamento mental justificam Mente; proteção do corpo físico e conexão ao corpo vital justificam Corpo.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
