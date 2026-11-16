@@ -23,9 +23,11 @@ title: Modelo de ficha de energia
 ## Classificação da biblioteca
 
 - **Habilidade principal:**
-- **Área predominante:** Corpo / Mente / Espírito
-- **Áreas secundárias:**
+- **Área predominante:** Corpo / Mente / Espírito — definida por análise dos efeitos descritos.
+- **Áreas secundárias:** indicar uma ou ambas as áreas restantes quando houver efeitos relevantes.
 - **Finalidades:**
+- **Justificativa da classificação:** explicar quais habilidades sustentam a predominância e as áreas secundárias.
+- **Grau de confiança:** alto / médio / baixo, conforme a clareza e especificidade dos efeitos descritos.
 - **Propriedades:**
 
 ## Ilustração
@@ -44,4 +46,4 @@ Na página pública de cada energia (a página que exibe somente a ilustração)
 
 ---
 
-*Este modelo é uma estrutura editorial. A classificação e as propriedades só serão preenchidas após análise do material da energia.*
+*Este modelo é uma estrutura editorial. A classificação Corpo/Mente/Espírito deve ser proposta pelo analista com base nos efeitos da ficha, acompanhada de justificativa e grau de confiança. Não deixar a classificação pendente quando houver elementos suficientes; quando a descrição for insuficiente ou ambígua, explicar exatamente a lacuna.*
