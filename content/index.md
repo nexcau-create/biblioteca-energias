@@ -7,7 +7,7 @@ title: Biblioteca do Conhecimento Magístico
 <header class="library-hero">
   <p class="library-kicker">ACERVO DIGITAL • CONSULTA PÚBLICA</p>
   <h1>Biblioteca do Conhecimento Magístico</h1>
-  <p class="library-intro">Seis livros. Um acervo em constante construção. Conhecimento organizado para pesquisar, consultar e explorar.</p>
+  <p class="library-intro">Sete livros. Um acervo em constante construção. Conhecimento organizado para pesquisar, consultar e explorar.</p>
   <p class="library-note">Escolha um livro para entrar em seu catálogo. Novos registros serão acrescentados gradualmente.</p>
 </header>
 
@@ -35,6 +35,11 @@ title: Biblioteca do Conhecimento Magístico
   <a class="book-card book-simbolos" href="livros/simbolos/">
     <img class="book-cover-image" src="capas/simbolos.jpg" alt="Capa do Livro VI — Símbolos" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
     <span class="book-caption"><strong>Livro VI — Símbolos</strong><small>Catálogo de símbolos individuais</small></span>
+  </a>
+
+  <a class="book-card book-sinergias" href="livros/sinergias/">
+    <img class="book-cover-image" src="livros/sinergias/capa.svg" alt="Capa do Livro VII — Sinergias" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 22px rgba(0,0,0,.18)" />
+    <span class="book-caption"><strong>Livro VII — Sinergias</strong><small>Programação e Manipulação Avançada</small></span>
   </a>
 </section>
 
