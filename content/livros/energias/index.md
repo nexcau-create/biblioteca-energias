@@ -21,6 +21,10 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Aimeu](./aimeu) — Aurio · Astral · Ar
 - [Aioi](./aioi) — Lemeiriano · Astral · Pressão atmosférica
 - [Airiel](./airiel) — Orion · Astral · Som
+- [Airit](./airit) — Sirio · Divina · Luz
+- [Airono](./airono) — Aorie · Astral · Água
+- [Aironpeu](./aironpeu) — Aoria · Astral · Ondas
+- [Aitin](./aitin) — Orion · Astral · Vibração
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
