@@ -53,9 +53,9 @@ Quartzo leitoso em formato de seixo com ponta dupla e agregado de roseta, aprese
 - **Área predominante:** Mente.
 - **Áreas secundárias:** Corpo e Espírito.
 - **Grau de confiança da classificação:** Média-alta.
-- **Justificativa:** A ficha concentra limpeza de crenças limitantes, traumas mentais, pensamentos negativos e medos, além de mencionar conteúdos emocionais. A vitalidade e o fluxo no sistema esquelético apontam para Corpo; regeneração do campo, canais e blindagem apontam para Espírito.
+- **Justificativa:** A ficha concentra limpeza de crenças limitantes, traumas mentais, pensamentos negativos e medos. A vitalidade e o fluxo no sistema esquelético apontam para Corpo; regeneração do campo, canais e blindagem apontam para Espírito.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
