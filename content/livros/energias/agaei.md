@@ -56,7 +56,7 @@ Placa de geodo aberto com linhas paralelas avermelhadas.
 - **Grau de confiança da classificação:** Média.
 - **Justificativa:** A ficha se concentra em campo energético, camadas, canais, chakras, ancoragem e purificação do sistema espiritual. A estabilização nos corpos e o fortalecimento de canais permitem incluir Corpo como secundário; emoções, memórias traumáticas e clareza mental sustentam Mente.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
