@@ -15,8 +15,8 @@ description: "Energia Afafiel, linhagem Sirio, origem Astral, elemento Matéria 
 | Elemento primário | Matéria escura |
 | Cristal | Aragonita de cor esverdeada |
 | Nome de invocação | **Matéria escura Afafiel** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Espírito |
+| Áreas secundárias | Mente e Corpo |
 | Estado editorial | Registrada |
 
 ## Cristal e formação
@@ -49,7 +49,12 @@ Aragonita de cor esverdeada, em fragmento bruto, com linhas longitudinais e frat
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A divisão por áreas será incluída quando houver definição confirmada.
+- **Área predominante:** Espírito.
+- **Áreas secundárias:** Mente e Corpo.
+- **Grau de confiança da classificação:** Média.
+- **Justificativa:** Expansão da aura, canais e campo, alinhamento de chakras e ancoragem de entidades/transmissores sutis formam o núcleo espiritual. A filtragem do sistema mental e o trabalho emocional justificam Mente; a restauração do sistema sensorial sustenta Corpo como área secundária, embora sem detalhamento fisiológico.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
@@ -67,4 +72,4 @@ Afafiel, Aragonita esverdeada, Matéria escura, linhagem Sirio, origem Astral, i
 
 **Possíveis aplicações:** harmonização e expansão; organização sensorial; apoio a foco e clareza intuitiva; complemento de proteção mental.
 
-**Limites:** não há classificação por áreas nem critérios para identificar estruturas ou interferências. Referências a implantes, tecnologias e dívidas kármicas pertencem ao modelo do catálogo, não são constatações objetivas.
+**Limites:** a classificação por áreas acima é interpretativa; ainda faltam critérios operacionais para identificar estruturas ou interferências. Referências a implantes, tecnologias e dívidas kármicas pertencem ao modelo do catálogo, não são constatações objetivas.
