@@ -16,8 +16,8 @@ description: "Energia Agauei, linhagem Sirio, origem Astral, elemento Vibração
 | Cristal | Safira amarela |
 | Formação | Fragmento bruto natural com rajadas leitosas |
 | Nome de invocação | **Vibração Agauei** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Corpo |
+| Áreas secundárias | Espírito e Mente |
 | Estado editorial | Registrada |
 
 ## Efeitos e habilidades
@@ -51,7 +51,12 @@ description: "Energia Agauei, linhagem Sirio, origem Astral, elemento Vibração
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A ficha descreve efeitos relacionados aos três campos, mas não define predominância ou classificação oficial.
+- **Área predominante:** Corpo.
+- **Áreas secundárias:** Espírito e Mente.
+- **Grau de confiança da classificação:** Alta.
+- **Justificativa:** Os efeitos principais destacam explicitamente fortalecimento e potencialização dos corpos vital e físico. Purificação dos corpos búdico, plasmático, espiritual e etérico sustenta Espírito; força de vontade, sentimentos, sono e calma mental sustentam Mente.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
@@ -65,7 +70,7 @@ Pendente de classificação. A ficha descreve efeitos relacionados aos três cam
 
 **Possíveis aplicações em protocolos:** fortalecimento e potencialização do campo; purificação seguida de reorganização; equilíbrio dos chakras; apoio a práticas de harmonização emocional e mental; proteção complementar.
 
-**Limites e observações:** a ficha não define parâmetros de aplicação, duração ou critérios de encerramento. A referência a auxiliar tratamentos médicos não significa substituir cuidados de saúde nem comprova efeito clínico. A classificação Corpo/Mente/Espírito permanece pendente.
+**Limites e observações:** a ficha não define parâmetros de aplicação, duração ou critérios de encerramento. A referência a auxiliar tratamentos médicos não significa substituir cuidados de saúde nem comprova efeito clínico. a classificação Corpo/Mente/Espírito foi proposta como interpretação.
 
 ## Termos de pesquisa
 
