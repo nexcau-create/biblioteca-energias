@@ -50,7 +50,7 @@ Turmalina amarela com formação semelhante a um geodo, exterior de coloração 
 - **Grau de confiança da classificação:** Alta.
 - **Justificativa:** A maior parte das habilidades centrais incide sobre aura, camadas do campo, corpos sutis, chakras e proteção contra interferências espirituais. A ficha também descreve estabilização mental/emocional e integração com o campo físico.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
