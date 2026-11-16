@@ -15,8 +15,8 @@ description: "Energia Agaei, linhagem Laurp, origem Astral, elemento Raio. Fluor
 | Elemento primário | Raio |
 | Cristal | Fluorita arco-íris |
 | Nome de invocação | **Raio Agaei** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Espírito |
+| Áreas secundárias | Corpo e Mente |
 | Estado editorial | Registrada |
 
 ## Cristal e formação
@@ -51,7 +51,12 @@ Placa de geodo aberto com linhas paralelas avermelhadas.
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A divisão por áreas será incluída quando houver definição confirmada.
+- **Área predominante:** Espírito.
+- **Áreas secundárias:** Corpo e Mente.
+- **Grau de confiança da classificação:** Média.
+- **Justificativa:** A ficha se concentra em campo energético, camadas, canais, chakras, ancoragem e purificação do sistema espiritual. A estabilização nos corpos e o fortalecimento de canais permitem incluir Corpo como secundário; emoções, memórias traumáticas e clareza mental sustentam Mente.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
