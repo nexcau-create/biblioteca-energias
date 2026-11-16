@@ -45,11 +45,12 @@ Turmalina amarela com formação semelhante a um geodo, exterior de coloração 
 
 ## Classificação Corpo, Mente e Espírito
 
-**Espírito — predominante:** proteção e restauração da aura, liberação de camadas do campo, alinhamento dos corpos sutis e chakras, criação de campos protetores e identificação de interferências espirituais.
+- **Área predominante:** Espírito.
+- **Áreas secundárias:** Mente e Corpo.
+- **Grau de confiança da classificação:** Alta.
+- **Justificativa:** A maior parte das habilidades centrais incide sobre aura, camadas do campo, corpos sutis, chakras e proteção contra interferências espirituais. A ficha também descreve estabilização mental/emocional e integração com o campo físico.
 
-**Mente — secundária:** estabilização dos campos mental e emocional, harmonização de traumas, dissipação de comportamentos de vícios e atuação sobre pensamentos relacionados a manipulações.
-
-**Corpo — secundária:** despertar do campo físico para integração com o sistema energético.
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
