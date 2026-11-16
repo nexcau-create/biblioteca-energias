@@ -15,8 +15,8 @@ description: "Energia Afaiet, linhagem Sirio, origem Astral, elemento Ar. Quartz
 | Elemento primário | Ar |
 | Cristal | Quartzo leitoso |
 | Nome de invocação | **Ar Afaiet** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Mente |
+| Áreas secundárias | Corpo e Espírito |
 | Estado editorial | Registrada |
 
 ## Cristal e formação
@@ -50,7 +50,12 @@ Quartzo leitoso em formato de seixo com ponta dupla e agregado de roseta, aprese
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A divisão por áreas será incluída quando houver definição confirmada.
+- **Área predominante:** Mente.
+- **Áreas secundárias:** Corpo e Espírito.
+- **Grau de confiança da classificação:** Média-alta.
+- **Justificativa:** A ficha concentra limpeza de crenças limitantes, traumas mentais, pensamentos negativos e medos, além de mencionar conteúdos emocionais. A vitalidade e o fluxo no sistema esquelético apontam para Corpo; regeneração do campo, canais e blindagem apontam para Espírito.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
@@ -68,4 +73,4 @@ Afaiet, Quartzo leitoso, linhagem Sirio, origem Astral, elemento Ar, energias de
 
 **Possíveis aplicações:** limpeza seguida de regeneração; reorganização após sobrecarga; proteção complementar; harmonização de crenças e conteúdos emocionais.
 
-**Limites:** não há classificação por áreas nem critérios de aplicação. Pensamentos suicidas exigem apoio humano e profissional; esta energia não deve ser apresentada como tratamento ou prevenção. No Brasil, CVV 188 e emergência SAMU 192.
+**Limites:** a classificação por áreas acima é interpretativa; ainda faltam critérios operacionais de aplicação. Pensamentos suicidas exigem apoio humano e profissional; esta energia não deve ser apresentada como tratamento ou prevenção. No Brasil, CVV 188 e emergência SAMU 192.
