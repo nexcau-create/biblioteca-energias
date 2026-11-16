@@ -16,7 +16,7 @@ description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safir
 | Cristal | Safira amarela |
 | Nome de invocação | **Raio Afaeu** |
 | Formação | Fragmento bruto natural, com linhas e estrias em forma de fraturas paralelas e coloração metálica |
-| Área Corpo/Mente/Espírito | Pendente de classificação |
+| Área Corpo/Mente/Espírito | Espírito — predominante; Mente e Corpo — secundárias |
 
 ## Efeitos e habilidades
 
@@ -42,7 +42,12 @@ description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safir
 
 ## Classificação Corpo, Mente e Espírito
 
-**Pendente.** A área predominante e as áreas secundárias ainda não foram definidas. Nenhuma classificação foi atribuída.
+- **Área predominante:** Espírito.
+- **Áreas secundárias:** Mente e Corpo.
+- **Grau de confiança da classificação:** Média.
+- **Justificativa:** A ênfase está na condução, transmutação e ancoragem de energias na aura, em estruturas sutis, identidade energética e sistema espiritual. Vícios, fuga emocional e memórias traumáticas apontam para a mente; regeneração do sistema sensorial aponta para uma interface corporal.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
