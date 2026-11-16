@@ -29,6 +29,10 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Ajeua](./ajeua) — Orion · Astral · Terra
 - [Aleuro](./aleuro) — Orion · Primordial · Som
 - [Aramy](./aramy) — Soru · Divina · Matéria escura
+- [Arcana](./arcana) — Aion · Arcana · Luz
+- [Ariru](./ariru) — Orion · Astral · Água
+- [Arymon](./arymon) — Sirio · Astral · Matéria visível
+- [Asieo](./asieo) — Orion · Primordial · Onda
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
