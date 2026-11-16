@@ -16,8 +16,8 @@ description: "Energia Airiel, linhagem Orion, origem Astral, elemento Som. Esmer
 | Cristal | Esmeralda |
 | Formação | Ponta dupla trabalhada em palito, com estrias paralelas, rajada e quartzo verde-claro |
 | Nome de invocação | **Som Airiel** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Corpo |
+| Áreas secundárias | Espírito e Mente |
 | Estado editorial | Registrada |
 
 ## Efeitos e habilidades
@@ -46,7 +46,12 @@ description: "Energia Airiel, linhagem Orion, origem Astral, elemento Som. Esmer
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A ficha descreve efeitos em diferentes sistemas, mas não define predominância ou classificação oficial.
+- **Área predominante:** Corpo.
+- **Áreas secundárias:** Espírito e Mente.
+- **Grau de confiança da classificação:** Alta.
+- **Justificativa:** Fortalecimento do corpo físico, regeneração e equilíbrio celular e alívio de dores/desconfortos são os efeitos físicos mais diretos. Aura, canais, cordões e proteção vibracional justificam Espírito; controle do corpo emocional justifica Mente.
+
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
