@@ -25,6 +25,10 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Airono](./airono) — Aorie · Astral · Água
 - [Aironpeu](./aironpeu) — Aoria · Astral · Ondas
 - [Aitin](./aitin) — Orion · Astral · Vibração
+- [Ajalu](./ajalu) — Orion · Astral · Onda
+- [Ajeua](./ajeua) — Orion · Astral · Terra
+- [Aleuro](./aleuro) — Orion · Primordial · Som
+- [Aramy](./aramy) — Soru · Divina · Matéria escura
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
