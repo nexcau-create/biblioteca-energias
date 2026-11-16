@@ -56,7 +56,7 @@ description: "Energia Agauei, linhagem Sirio, origem Astral, elemento Vibração
 - **Grau de confiança da classificação:** Alta.
 - **Justificativa:** Os efeitos principais destacam explicitamente fortalecimento e potencialização dos corpos vital e físico. Purificação dos corpos búdico, plasmático, espiritual e etérico sustenta Espírito; força de vontade, sentimentos, sono e calma mental sustentam Mente.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
