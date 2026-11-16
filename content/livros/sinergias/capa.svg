@@ -1,49 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
-<title id="title">Livro VII — Sinergias</title><desc id="desc">Capa azul-noite e dourada da Biblioteca do Conhecimento Magístico, com geometria central conectando seis categorias de conhecimento.</desc>
+<title id="title">Livro VII — Sinergias</title>
+<desc id="desc">Capa clara em marfim e dourado da Biblioteca do Conhecimento Magístico, com geometria central integrando seis conjuntos de conhecimento.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050817"/><stop offset=".52" stop-color="#11152b"/><stop offset="1" stop-color="#030611"/></linearGradient>
- <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff0ad"/><stop offset=".45" stop-color="#e9b94f"/><stop offset="1" stop-color="#9d641c"/></linearGradient>
- <radialGradient id="core"><stop stop-color="#fff6cb" stop-opacity=".95"/><stop offset=".16" stop-color="#e9b94f" stop-opacity=".5"/><stop offset="1" stop-color="#e9b94f" stop-opacity="0"/></radialGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf8"/><stop offset=".52" stop-color="#f5efe3"/><stop offset="1" stop-color="#fffaf0"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7d98a"/><stop offset=".48" stop-color="#c58b2d"/><stop offset="1" stop-color="#9b6a20"/></linearGradient>
+ <radialGradient id="core"><stop stop-color="#fff9e7" stop-opacity=".98"/><stop offset=".25" stop-color="#edca7a" stop-opacity=".45"/><stop offset="1" stop-color="#e8c16e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7d9c0" stop-opacity=".05"/><stop offset=".5" stop-color="#d6c4a4" stop-opacity=".24"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="1600" fill="url(#bg)"/>
-<rect x="30" y="30" width="1140" height="1540" rx="18" fill="none" stroke="url(#gold)" stroke-width="5"/>
-<rect x="48" y="48" width="1104" height="1504" rx="12" fill="none" stroke="#b78335" stroke-opacity=".55" stroke-width="1.5"/>
-<g fill="none" stroke="url(#gold)" stroke-width="2" opacity=".8">
+<rect width="1200" height="1600" fill="url(#paper)"/>
+<rect x="30" y="30" width="1140" height="1540" rx="34" fill="none" stroke="url(#gold)" stroke-width="5"/>
+<rect x="49" y="49" width="1102" height="1502" rx="24" fill="none" stroke="#c99a4a" stroke-opacity=".7" stroke-width="1.8"/>
+<path d="M80 250Q250 110 420 250T780 250T1120 250M80 1350Q250 1490 420 1350T780 1350T1120 1350" fill="none" stroke="#d7bd8a" stroke-width="2" opacity=".55"/>
+<g fill="none" stroke="url(#gold)" stroke-width="2" opacity=".78">
  <path d="M80 180V80H180 M1020 80h100v100 M80 1420v100h100 M1020 1520h100v-100"/>
- <path d="M95 250Q250 90 400 250T705 250T1105 250 M95 1350Q250 1510 400 1350T705 1350T1105 1350"/>
  <circle cx="600" cy="830" r="400"/><circle cx="600" cy="830" r="370"/><circle cx="600" cy="830" r="315"/>
  <circle cx="600" cy="830" r="250" stroke-dasharray="8 12"/><path d="M600 430V1230M200 830H1000M317 547l566 566M883 547L317 1113"/>
  <path d="M600 445L985 830 600 1215 215 830Z"/><path d="M600 510L920 830 600 1150 280 830Z"/>
 </g>
-<g fill="url(#gold)" font-family="Georgia,serif" text-anchor="middle">
+<g fill="#30271b" font-family="Georgia,serif" text-anchor="middle">
  <text x="600" y="145" font-size="30" letter-spacing="7">BIBLIOTECA DO CONHECIMENTO MAGÍSTICO</text>
  <text x="600" y="255" font-size="42" letter-spacing="9">LIVRO VII</text>
  <text x="600" y="355" font-size="92" letter-spacing="7">SINERGIAS</text>
  <text x="600" y="415" font-size="29" letter-spacing="4">PROGRAMAÇÃO E MANIPULAÇÃO AVANÇADA</text>
 </g>
+<path d="M0 0H1200V1600H0Z" fill="url(#wash)"/>
 <g filter="url(#glow)">
  <circle cx="600" cy="830" r="220" fill="url(#core)"/>
- <circle cx="600" cy="830" r="12" fill="#fff2bc"/>
+ <circle cx="600" cy="830" r="12" fill="#fff8df"/>
  <g fill="none" stroke="url(#gold)" stroke-width="5">
   <circle cx="600" cy="830" r="170"/><circle cx="600" cy="830" r="115"/>
   <path d="M600 610L790 940H410Z M600 1050L410 720H790Z"/>
   <path d="M600 570V1090M340 830H860M415 645l370 370M785 645L415 1015"/>
  </g>
 </g>
-<g font-family="Georgia,serif" font-size="27" text-anchor="middle" fill="#fff0bd">
- <g><circle cx="600" cy="610" r="62" fill="#171a2a" stroke="#e8bd58" stroke-width="4"/><text x="600" y="620">✧</text><text x="600" y="535" font-size="18">ENERGIAS</text></g>
- <g><circle cx="790" cy="830" r="62" fill="#171a2a" stroke="#e8bd58" stroke-width="4"/><text x="790" y="840">⌘</text><text x="890" y="840" font-size="18">CÓDIGOS</text></g>
- <g><circle cx="600" cy="1050" r="62" fill="#171a2a" stroke="#e8bd58" stroke-width="4"/><text x="600" y="1060">⚖</text><text x="600" y="1140" font-size="18">LEIS</text></g>
- <g><circle cx="410" cy="830" r="62" fill="#171a2a" stroke="#e8bd58" stroke-width="4"/><text x="410" y="840">ᛟ</text><text x="305" y="840" font-size="18">RUNAS</text></g>
- <g><circle cx="465" cy="675" r="45" fill="#171a2a" stroke="#e8bd58" stroke-width="3"/><text x="465" y="685">✺</text></g>
- <g><circle cx="735" cy="985" r="45" fill="#171a2a" stroke="#e8bd58" stroke-width="3"/><text x="735" y="995">◇</text></g>
+<g font-family="Georgia,serif" font-size="27" text-anchor="middle" fill="#49371d">
+ <g><circle cx="600" cy="610" r="62" fill="#fffaf0" stroke="#c9973e" stroke-width="4"/><text x="600" y="620">✧</text><text x="600" y="535" font-size="18">ENERGIAS</text></g>
+ <g><circle cx="790" cy="830" r="62" fill="#fffaf0" stroke="#c9973e" stroke-width="4"/><text x="790" y="840">⌘</text><text x="890" y="840" font-size="18">CÓDIGOS</text></g>
+ <g><circle cx="600" cy="1050" r="62" fill="#fffaf0" stroke="#c9973e" stroke-width="4"/><text x="600" y="1060">⚖</text><text x="600" y="1140" font-size="18">LEIS</text></g>
+ <g><circle cx="410" cy="830" r="62" fill="#fffaf0" stroke="#c9973e" stroke-width="4"/><text x="410" y="840">ᛟ</text><text x="305" y="840" font-size="18">RUNAS</text></g>
+ <g><circle cx="465" cy="675" r="45" fill="#fffaf0" stroke="#c9973e" stroke-width="3"/><text x="465" y="685">✺</text></g>
+ <g><circle cx="735" cy="985" r="45" fill="#fffaf0" stroke="#c9973e" stroke-width="3"/><text x="735" y="995">◇</text></g>
 </g>
 <g fill="none" stroke="url(#gold)" stroke-width="3" opacity=".9">
  <path d="M100 1450H1100M140 1480H1060"/>
  <path d="M150 120l40 40-40 40-40-40z M1050 120l40 40-40 40-40-40z"/>
 </g>
-<g fill="#e9c36a" font-family="Georgia,serif" text-anchor="middle">
+<g fill="#49371d" font-family="Georgia,serif" text-anchor="middle">
  <text x="600" y="1300" font-size="31" letter-spacing="4">A ARTE DA INTEGRAÇÃO</text>
  <text x="600" y="1360" font-size="22" letter-spacing="2">CONHECIMENTO • ESTRUTURA • HARMONIA</text>
  <text x="600" y="1495" font-size="18" letter-spacing="5">EDIÇÃO V4</text>
