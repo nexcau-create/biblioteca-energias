@@ -54,7 +54,7 @@ description: "Energia Aimeu, linhagem Aurio, origem Astral, elemento Ar. Fluorit
 - **Grau de confiança da classificação:** Alta.
 - **Justificativa:** Manifestação, conexão e proteção da aura, limpeza do corpo astral e harmonização de estruturas energéticas formam o eixo principal. Concentração, clareza e refinamento mental justificam Mente; proteção do corpo físico e conexão ao corpo vital justificam Corpo.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
