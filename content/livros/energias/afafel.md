@@ -47,7 +47,7 @@ description: "Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Hal
 - **Grau de confiança da classificação:** Alta.
 - **Justificativa:** Os efeitos mais numerosos e específicos tratam instabilidade emocional, comportamentos, traumas, memórias e filtragem do corpo emocional. Corpo etérico, vínculos cármicos e sistema espiritual justificam a área espiritual secundária. Não há efeito físico corporal claramente descrito.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
