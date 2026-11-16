@@ -17,6 +17,10 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Afaiet](./afaiet) — Sirio · Astral · Ar
 - [Afecit](./afecit) — Siriorit · Astral · Ar
 - [Agaei](./agaei) — Laurp · Astral · Raio
+- [Agauei](./agauei) — Sirio · Astral · Vibração
+- [Aimeu](./aimeu) — Aurio · Astral · Ar
+- [Aioi](./aioi) — Lemeiriano · Astral · Pressão atmosférica
+- [Airiel](./airiel) — Orion · Astral · Som
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
