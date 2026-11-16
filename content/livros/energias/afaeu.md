@@ -47,7 +47,7 @@ description: "Energia Afaeu, linhagem Orion, origem Divina, elemento Raio. Safir
 - **Grau de confiança da classificação:** Média.
 - **Justificativa:** A ênfase está na condução, transmutação e ancoragem de energias na aura, em estruturas sutis, identidade energética e sistema espiritual. Vícios, fuga emocional e memórias traumáticas apontam para a mente; regeneração do sistema sensorial aponta para uma interface corporal.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
