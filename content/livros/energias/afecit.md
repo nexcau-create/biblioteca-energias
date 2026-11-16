@@ -55,7 +55,7 @@ Fragmento transparente contendo linhas paralelas de cor prateada.
 - **Grau de confiança da classificação:** Média-alta.
 - **Justificativa:** Magnetização, refinamento, estabilização do campo, chakras, corpo astral, estruturas sutis e restauração do sistema espiritual predominam. A atuação no corpo mental inferior, confusões mentais, crenças e memórias sustenta Mente como área secundária. Não há efeito direto e claro sobre o corpo físico.
 
-Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
