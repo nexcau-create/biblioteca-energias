@@ -16,8 +16,8 @@ description: "Energia Aioi, linhagem Lemeiriano, origem Astral, elemento Pressã
 | Cristal | Água-marinha |
 | Formação | Formação bruta, em estado bruto, com textura de seixo, estrias de fratura e rajadas de manganês |
 | Nome de invocação | **Pressão atmosférica Aioi** |
-| Área predominante | Pendente de classificação |
-| Áreas secundárias | Pendente de classificação |
+| Área predominante | Corpo |
+| Áreas secundárias | Mente e Espírito |
 | Estado editorial | Registrada |
 
 ## Efeitos e habilidades
@@ -48,7 +48,12 @@ description: "Energia Aioi, linhagem Lemeiriano, origem Astral, elemento Pressã
 
 ## Classificação Corpo, Mente e Espírito
 
-Pendente de classificação. A ficha descreve efeitos em diferentes sistemas, mas não define predominância ou classificação oficial.
+- **Área predominante:** Corpo.
+- **Áreas secundárias:** Mente e Espírito.
+- **Grau de confiança da classificação:** Média-alta.
+- **Justificativa:** A ficha declara atuação de harmonia, limpeza e cura no corpo físico e modulação do fluxo no corpo vital. Clareza mental, pensamentos e memórias sustentam Mente; aura, campo sutil, vidência e corpo etérico sustentam Espírito.
+
+Esta classificação é interpretativa e baseada nos efeitos descritos nesta ficha. Organiza a atuação dentro do modelo Corpo, Mente e Espírito da Biblioteca; não acrescenta habilidades ao registro original.
 
 ## Análise interpretativa
 
