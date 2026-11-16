@@ -16,7 +16,7 @@ description: "Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Hal
 | Nome de invocação | **Fogo Afafel** |
 | Cristal | Halita de cor salmão |
 | Formação | Placa de halita com ponta fantasma e hábito tabular, trabalhada em um cubo; linhas e estrias de clivagem |
-| Área Corpo/Mente/Espírito | Pendente de classificação |
+| Área Corpo/Mente/Espírito | Mente — predominante; Espírito — secundárias |
 
 ## Efeitos e habilidades
 
@@ -42,7 +42,12 @@ description: "Energia Afafel, linhagem Seurio, origem Astral, elemento Fogo. Hal
 
 ## Classificação Corpo, Mente e Espírito
 
-**Pendente.** A área predominante e as áreas secundárias ainda não foram definidas. Nenhuma classificação foi atribuída.
+- **Área predominante:** Mente.
+- **Áreas secundárias:** Espírito.
+- **Grau de confiança da classificação:** Alta.
+- **Justificativa:** Os efeitos mais numerosos e específicos tratam instabilidade emocional, comportamentos, traumas, memórias e filtragem do corpo emocional. Corpo etérico, vínculos cármicos e sistema espiritual justificam a área espiritual secundária. Não há efeito físico corporal claramente descrito.
+
+Esta é uma classificação interpretativa baseada nos efeitos descritos nesta ficha. Ela organiza a atuação predominante e as áreas complementares dentro do modelo Corpo, Mente e Espírito da Biblioteca; não altera nem acrescenta habilidades ao registro original.
 
 ## Termos de pesquisa
 
@@ -60,4 +65,4 @@ Afafel, Seurio, origem Astral, Fogo Afafel, halita salmão, ponta fantasma, háb
 
 **Possíveis aplicações em protocolos:** limpeza e reorganização emocional; trabalho simbólico com memórias difíceis; reintegração de camadas do campo; complemento de uma etapa de estabilização após limpeza.
 
-**Limites e cuidados:** não há classificação Corpo/Mente/Espírito nem critérios de dosagem, duração ou encerramento. Termos como paralisar, drenar, corroer e desintegrar são mantidos como linguagem do registro, mas não devem ser convertidos em promessa de apagamento de lembranças ou substituto de acompanhamento psicológico.
+**Limites e cuidados:** a classificação Corpo/Mente/Espírito acima é interpretativa; ainda faltam critérios operacionais de dosagem, duração ou encerramento. Termos como paralisar, drenar, corroer e desintegrar são mantidos como linguagem do registro, mas não devem ser convertidos em promessa de apagamento de lembranças ou substituto de acompanhamento psicológico.
