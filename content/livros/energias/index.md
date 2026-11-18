@@ -37,6 +37,8 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Asteir](./asteir) — Sirio · Astral · Matéria escura
 - [Asteit](./asteit) — Sirio · Astral · Terra
 - [Aster](./aster) — Sirio · Primordial · Luz
+- [Astral](./astral) — Sirio · Astral · Eletricidade
+- [Atenie](./atenie) — Autir · Astral · Pressão atmosférica
 
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
