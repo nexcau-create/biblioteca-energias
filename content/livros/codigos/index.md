@@ -10,8 +10,10 @@ Catálogo textual dos códigos estudados e registrados na Biblioteca do Conhecim
 
 **A**
 
+- [Acuei](./acuei) — Orion · Sagrada · Registro inicial
 - [Asuf](./asuf) — Aorion · Primordial · Registro inicial
 - [Apy](./apy) — Orion · Astral · Em análise
+- [Ajaeu](./ajaeu) — Orion · Telúrica · Registro inicial
 
 Novos códigos serão incorporados em ordem alfabética.
 
