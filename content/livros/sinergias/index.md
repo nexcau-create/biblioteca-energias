@@ -1,368 +1,307 @@
 ---
-title: Livro VII — Sinergias e Programação Avançada
-description: Propostas de combinações funcionais entre energias, códigos, leis, runas, simbologias e símbolos da Biblioteca do Conhecimento Magístico.
+title: Livro VII — Sinergias
+description: Combinações integradas de energias, códigos, leis, runas, simbologias e símbolos da Biblioteca.
 ---
 
-# Livro VII — Sinergias / Programação e Manipulação Avançada
+# Livro VII — Sinergias
 
-> **Estado editorial:** primeira edição — propostas-piloto e combinações experimentais.  
-> **Base documental:** fichas públicas e análises interpretativas dos Livros I a VI, branch v4.  
-> **Escopo:** práticas não ofensivas, voltadas à proteção, limpeza, purificação, harmonização, restauração, estruturação, estabilização, fortalecimento e desenvolvimento.  
-> **Limite:** este livro documenta o modelo interno da Biblioteca. Não constitui comprovação científica nem substitui cuidados médicos, psicológicos ou outros serviços profissionais.
+## Programações e combinações integradas
 
-## Como ler este livro
+Este livro reúne combinações construídas a partir dos registros dos Livros I a VI. Cada proposta tem um objetivo claro, reúne apenas os componentes que acrescentam uma função útil e apresenta um comando geral pronto para ser utilizado dentro do modelo de emanação da Biblioteca.
 
-Cada programação distingue três níveis:
+As combinações e sequências deste livro são propostas interpretativas. As fichas originais descrevem as funções dos componentes; a escolha de combiná-los, a ordem e o comando são construções para estudo. Não representam eficácia científica ou médica comprovada.
 
-1. **Conteúdo da ficha:** habilidade declarada no registro original.
-2. **Interpretação funcional:** papel que o componente pode ocupar quando relacionado a outros registros.
-3. **Hipótese de programação:** ordem, comando e etapas propostos para estudo. Não são propriedades originais nem eficácia comprovada.
+## Como utilizar
 
-A combinação de componentes não significa que seus efeitos sejam somados automaticamente. Sobreposições devem ser justificadas; funções não documentadas não podem ser atribuídas a nenhum componente.
+1. Escolha a combinação de acordo com o objetivo.
+2. Confira os componentes e suas funções.
+3. Leia o comando geral completo.
+4. Execute a sequência na ordem indicada.
+5. Encerre a prática ao concluir o comando.
 
-### Estados editoriais
+**Regra para as energias:** usar sempre o nome de evocação registrado na ficha, formado pelo elemento + nome da energia. Exemplo: **Ar Aeito**, e não apenas “Aeito”.
 
-- **Piloto:** combinação com coerência documental suficiente para estudo e revisão.
-- **Experimental:** combinação plausível, mas dependente de esclarecimentos em uma ou mais fichas.
-- **Não validado:** sequência e resultados ainda não foram observados ou demonstrados de forma independente.
+**Demais componentes:** códigos, leis, runas, simbologias e símbolos devem ser ativados ou aplicados pelo método próprio de cada categoria. Não inventar nomes de evocação quando a ficha não os fornece.
 
-## Sumário
-
-- [VII-01 — Proteção, contenção e estabilização integral](#vii-01--proteção-contenção-e-estabilização-integral)
-- [VII-02 — Limpeza, regeneração e sincronização energética](#vii-02--limpeza-regeneração-e-sincronização-energética)
-- [VII-03 — Harmonização mental, sensorial e da personalidade](#vii-03--harmonização-mental-sensorial-e-da-personalidade)
-- [VII-04 — Memórias positivas e estabilidade emocional](#vii-04--memórias-positivas-e-estabilidade-emocional)
-- [VII-05 — Decodificação, purificação e estruturação energética](#vii-05--decodificação-purificação-e-estruturação-energética)
-- [VII-06 — Harmonização energética associada ao corpo](#vii-06--harmonização-energética-associada-ao-corpo)
-- [Matriz de compatibilidade](#matriz-de-compatibilidade)
-- [Fichas que precisam de revisão](#fichas-que-precisam-de-revisão)
-- [Padrão para novas programações](#padrão-para-novas-programações)
+**Limite:** estas programações não substituem medidas de segurança, cuidados médicos, psicológicos ou profissionais. Não usar para diagnosticar doenças, interromper tratamentos, controlar terceiros ou afirmar que uma ameaça espiritual foi identificada como fato.
 
 ---
 
-## VII-01 — Proteção, contenção e estabilização integral
+## VII-01 — Proteção e estabilidade do campo
 
-**Estado:** Piloto  
-**Finalidade:** proteção abrangente, regulação de sobrecargas e estabilização do campo pessoal.
+**Intuito:** estabelecer uma proteção simbólica abrangente e manter o campo organizado e estável.
 
-### Componentes e funções
+**Por que esta combinação:** Asi Sir oferece o escudo abrangente; Ar Aeito acrescenta proteção e alinhamento da aura; Raio Agaei contribui com absorção de sobrecargas, restauração e estabilização. Cada componente tem uma função diferente.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Asi Sir — Simbologia | Escudo para os sistemas energético, mental, espiritual e físico, corpos e campos. | Proteção abrangente. |
-| Agaei — Energia | Absorção de sobrecargas; restauração, regeneração, estabilização e fortalecimento de campos e canais. | Regulação e recomposição. |
-| Aeito — Energia | Proteção e restauração da aura; liberação de camadas; alinhamento de corpos sutis e chakras; campos de proteção. | Integração e sustentação da proteção áurica. |
+**O que será combinado**
+- **Asi Sir — Simbologia:** escudo para os sistemas energético, mental, espiritual e físico, corpos e campos.
+- **Ar Aeito — Energia:** proteção e restauração da aura, alinhamento de corpos sutis e chakras e criação de campos de proteção.
+- **Raio Agaei — Energia:** absorção de sobrecargas, restauração e estabilização dos corpos, campos e canais.
 
-Referências: [Asi Sir](../simbologias/asi-sir.md), [Agaei](../energias/agaei.md), [Aeito](../energias/aeito.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Ativar a simbologia Asi Sir e evocar Ar Aeito e Raio Agaei. Estabelecer, por meio de Asi Sir, um escudo de proteção para meus sistemas, corpos e campos. Com Ar Aeito, proteger e alinhar a aura, os corpos sutis e os chakras. Com Raio Agaei, absorver as sobrecargas contempladas nesta prática, restaurar o campo e estabilizar os canais e as estruturas energéticas. Manter a proteção e o equilíbrio durante todo o procedimento, limitar a atuação ao meu próprio campo e encerrar a emanação ao concluir.
 
-Asi Sir descreve proteção abrangente; Agaei acrescenta funções de absorção de sobrecargas e estabilização; Aeito descreve proteção e reorganização da aura e das estruturas sutis. A combinação é funcionalmente complementar, embora existam sobreposições de proteção, restauração e estabilidade.
+**Sequência**
+1. Ativar Asi Sir para estabelecer o escudo.
+2. Evocar **Ar Aeito** para proteger e alinhar a aura.
+3. Evocar **Raio Agaei** para regular sobrecargas e estabilizar.
+4. Repetir o comando geral uma vez, com atenção ao objetivo.
+5. Encerrar a emanação.
 
-### Sequência hipotética
-
-1. **Preparação:** delimitar o trabalho ao próprio campo e definir proteção e estabilidade como objetivos.
-2. **Evocação:** Asi Sir, para estabelecer a proteção descrita em sua ficha.
-3. **Evocação:** Agaei, para as funções declaradas de absorção de sobrecargas, restauração e estabilização.
-4. **Evocação:** Ar Aeito, para proteção áurica, alinhamento e integração.
-5. **Comando:** direcionar o conjunto ao objetivo delimitado.
-6. **Emanação:** executar a programação conforme o método de emanação adotado pelo praticante.
-7. **Encerramento:** declarar concluída a operação e cessar a emanação.
-
-### Comando proposto
-
-> Estabeleça proteção nos meus sistemas, corpos e campos. Trabalhe as sobrecargas contempladas nesta programação conforme a função descrita para Agaei. Favoreça a restauração e a estabilidade do campo, a proteção da aura e o alinhamento das estruturas sutis. Limite esta programação ao objetivo definido e ao meu próprio campo, preservando minha autonomia e sem direcionamento sobre terceiros.
-
-### Redundâncias, conflitos e lacunas
-
-- **Redundância:** Asi Sir e Aeito incluem proteção. A combinação só se justifica se forem mantidos os escopos distintos: proteção abrangente e proteção/reorganização áurica.
-- **Sobreposição:** Agaei e Aeito incluem restauração e estabilização.
-- **Cuidado:** Agaei também descreve amplificação. Esta proposta não solicita amplificação, pois o objetivo inclui regulação de sobrecargas.
-- **Lacunas:** as fichas não definem duração, intensidade, critérios objetivos de encerramento nem indicadores verificáveis de resultado.
-
-**O que permanece hipotético:** a ordem proteção → regulação → integração é uma organização proposta, não uma sequência original estabelecida pelas fichas.
+**Por que essa ordem:** primeiro se estabelece a proteção ampla; depois se trabalha a aura e o alinhamento; por último se regula e estabiliza o campo.
 
 ---
 
-## VII-02 — Limpeza, regeneração e sincronização energética
+## VII-02 — Limpeza e regeneração energética
 
-**Estado:** Piloto  
-**Finalidade:** combinar funções declaradas de dissolução de densidades, regeneração, refinamento e sincronização do campo.
+**Intuito:** combinar limpeza de conteúdos energéticos descritos como densos com regeneração e estabilização posterior.
 
-### Componentes e funções
+**Por que esta combinação:** Ar Afaiet reúne dissolução e regeneração do campo. Ar Afecit acrescenta refinamento, sincronização e estabilização. Asi Sir oferece proteção de contexto. Não é necessário acrescentar várias energias com a mesma função de limpeza.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Asi Sir — Simbologia | Escudo para sistemas, corpos e campos. | Proteção de contexto. |
-| Afaiet — Energia | Dissolução de energias densas; regeneração do campo, canais e camadas; neutralização de acoplamentos; blindagem. | Limpeza e regeneração, limitadas ao escopo pessoal. |
-| Afecit — Energia | Magnetização, refinamento, estabilização, fixação de estruturas, sincronização e integração. | Refinamento e estabilização posteriores. |
+**O que será combinado**
+- **Asi Sir — Simbologia:** escudo de proteção dos sistemas, corpos e campos.
+- **Ar Afaiet — Energia:** dissolução de energias densas, neutralização de acoplamentos e regeneração do campo, canais e camadas.
+- **Ar Afecit — Energia:** refinamento de frequências, estabilização, fixação de estruturas e sincronização de corpos e campos.
 
-Referências: [Asi Sir](../simbologias/asi-sir.md), [Afaiet](../energias/afaiet.md), [Afecit](../energias/afecit.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Ativar Asi Sir e evocar Ar Afaiet e Ar Afecit. Estabelecer proteção para meu campo. Com Ar Afaiet, realizar a limpeza dos conteúdos energéticos delimitados nesta prática e favorecer a regeneração do campo, dos canais e das camadas energéticas. Em seguida, com Ar Afecit, refinar e sincronizar as estruturas, estabilizar os chakras e fixar o fluxo harmônico. Preservar minha autonomia e minhas memórias, sem interferir em outras pessoas. Encerrar após a estabilização.
 
-Afaiet reúne dissolução e regeneração. Afecit descreve refinamento, sincronização e estabilização. Asi Sir pode ocupar o papel de proteção. A proposta evita adicionar outros componentes de limpeza com funções muito próximas.
+**Sequência**
+1. Ativar Asi Sir.
+2. Evocar **Ar Afaiet** para a limpeza e regeneração.
+3. Evocar **Ar Afecit** para refinamento, sincronização e estabilização.
+4. Encerrar a emanação.
 
-### Sequência hipotética
-
-1. Definir quais conteúdos do próprio campo são o objeto da prática, sem presumir interferências externas.
-2. Evocar Asi Sir para proteção.
-3. Evocar Ar Afaiet para as funções declaradas de dissolução e regeneração, sem ampliar o escopo para terceiros.
-4. Evocar Ar Afecit para refinamento, sincronização e estabilização.
-5. Emitir o comando e realizar a emanação.
-6. Encerrar a operação e cessar a emanação.
-
-### Comando proposto
-
-> Direcione esta programação somente ao meu campo e aos conteúdos que delimitei. Trabalhe as funções de dissolução e regeneração descritas para Afaiet. Em seguida, favoreça o refinamento, a sincronização e a estabilização descritos para Afecit. Preserve minhas memórias, minha autonomia e as estruturas que não fazem parte do objetivo definido.
-
-### Redundâncias, conflitos e lacunas
-
-- Afaiet e Afecit apresentam funções de regeneração/restauração ou estabilização, mas com ênfases diferentes.
-- Afecit e Afaeu compartilham magnetização e ancoragem; Afaeu não foi incluída porque acrescentaria sobreposição sem necessidade demonstrada.
-- A ficha Afaiet menciona temas sensíveis, inclusive pensamentos suicidas. Esta programação não é indicada para esse fim e não substitui acolhimento ou assistência profissional.
-- Faltam critérios para delimitar o que seria uma densidade, um acoplamento ou uma camada, além de condições de intensidade e encerramento.
-
-**O que permanece hipotético:** a sequência limpeza/regeneração → refinamento/sincronização é uma hipótese de organização funcional.
+**Por que essa ordem:** a limpeza vem antes da reorganização. Depois de trabalhar os conteúdos delimitados, o refinamento e a estabilização completam a proposta.
 
 ---
 
-## VII-03 — Harmonização mental, sensorial e da personalidade
+## VII-03 — Harmonização mental e emocional
 
-**Estado:** Piloto  
-**Finalidade:** propor uma prática de harmonização mental e sensorial, com atenção à autonomia emocional.
+**Intuito:** favorecer calma, alinhamento dos pensamentos e harmonização dos sistemas mental e sensorial.
 
-### Componentes e funções
+**Por que esta combinação:** Asuf é descrito como recurso de localização e limpeza de sentimentos e emoções; Asurip Dautif acalma e harmoniza; Agei Peui integra os sistemas sensorial, mental e a personalidade. A combinação vai da identificação do conteúdo escolhido à harmonização geral.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Asuf — Código | Ancoragem de energias para localização, repulsão e limpeza de sentimentos e emoções descritos como negativos no sistema mental. | Localização e trabalho sobre conteúdos delimitados. |
-| Asiuf — Runa | Calma mental, alinhamento de pensamentos e manutenção da paz. | Serenidade e alinhamento mental. |
-| Agei Peui — Simbologia | Blindagem sensorial, expansão energética e harmonização sensorial, mental e da personalidade. | Integração e harmonização. |
+**O que será combinado**
+- **Asuf — Código:** ancora energias no sistema mental para localizar e limpar sentimentos e emoções descritos como negativos.
+- **Asurip Dautif — Lei:** acalma a mente e as emoções, cria fluxo harmônico e estabiliza o equilíbrio emocional.
+- **Agei Peui — Simbologia:** blinda o sistema sensorial e harmoniza os sistemas sensorial e mental e a personalidade.
 
-Referências: [Asuf](../codigos/asuf.md), [Asiuf](../runas/asiuf.md), [Agei Peui](../simbologias/agei-peui.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Ativar o código Asuf, a Lei Asurip Dautif e a simbologia Agei Peui. Com Asuf, localizar e trabalhar somente os sentimentos e padrões que reconheço e escolho reorganizar, sem suprimir emoções legítimas. Com Asurip Dautif, acalmar a mente e as emoções e estabelecer um fluxo harmônico. Com Agei Peui, proteger o sistema sensorial e harmonizar os sistemas sensorial e mental e a personalidade. Preservar minha autonomia, minha capacidade de sentir e decidir e encerrar em estado de equilíbrio.
 
-Asuf é descrito em relação à localização e limpeza de conteúdos mentais/emocionais; Asiuf, à calma e ao alinhamento; Agei Peui, à harmonização sensorial, mental e da personalidade. Cada componente ocupa uma função distinta.
+**Sequência**
+1. Ativar Asuf para localizar o conteúdo que a própria pessoa escolheu trabalhar.
+2. Ativar Asurip Dautif para acalmar e harmonizar.
+3. Ativar Agei Peui para integrar os sistemas.
+4. Encerrar.
 
-### Sequência hipotética
-
-1. Definir um padrão ou conteúdo que a própria pessoa reconhece e deseja trabalhar.
-2. Evocar Asuf para a função descrita de localização e limpeza, sem classificar emoções humanas legítimas como defeitos.
-3. Evocar Asiuf para calma e alinhamento.
-4. Evocar Agei Peui para harmonização e integração.
-5. Emitir o comando, realizar a emanação e encerrar.
-
-### Comando proposto
-
-> Trabalhe somente os padrões mentais e emocionais que reconheço e escolho reorganizar. Preserve a função informativa das minhas emoções e minha capacidade de decisão. Favoreça a calma mental, o alinhamento dos pensamentos e a harmonização dos sistemas sensorial e mental e da personalidade. Não interfira na vontade, nos pensamentos ou nas emoções de outras pessoas.
-
-### Redundâncias, conflitos e lacunas
-
-- Asuf e Asiuf atuam no domínio mental, mas suas funções declaradas são diferentes.
-- Agei Peui também harmoniza o sistema mental, gerando sobreposição parcial.
-- A expressão “sentimentos e emoções negativos” precisa de definição cuidadosa. Tristeza, medo e raiva podem ser respostas humanas legítimas e não devem ser automaticamente eliminados.
-- A ficha de Agei Peui usa termos como sabotagem sem critérios operacionais claros.
-- Não há método de ativação detalhado para a runa Asiuf.
-
-**O que permanece hipotético:** a sequência localização/trabalho → serenidade → integração. Não há comprovação de eficácia psicológica ou clínica.
+**Por que essa ordem:** primeiro se delimita o foco; depois se promove calma; por fim se integra a harmonização. Tristeza, medo e raiva não são automaticamente defeitos: não se deve ordenar sua eliminação indiscriminada.
 
 ---
 
-## VII-04 — Memórias positivas e estabilidade emocional
+## VII-04 — Acolhimento de memórias positivas
 
-**Estado:** Piloto  
-**Finalidade:** favorecer a evocação voluntária de memórias reconhecidas pela pessoa como positivas, com serenidade e proteção.
+**Intuito:** favorecer a lembrança espontânea de experiências positivas, com calma e estabilidade emocional.
 
-### Componentes e funções
+**Por que esta combinação:** Aku é o recurso específico para memórias harmônicas e felizes. Asiuf oferece calma e alinhamento mental. Ar Aeito acrescenta proteção e estabilidade do campo. Não se atribui à runa a capacidade de apagar ou curar traumas.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Aeito — Energia | Proteção e restauração áurica; estabilização mental e emocional; alinhamento de corpos sutis e chakras. | Preparação protetiva e estabilização. |
-| Asiuf — Runa | Calma mental, alinhamento de pensamentos e manutenção da paz. | Serenidade. |
-| Aku — Runa | Manifestação de memórias harmônicas e felizes; a ficha também menciona trabalho com memórias traumáticas. | Evocação voluntária de lembranças positivas. |
+**O que será combinado**
+- **Ar Aeito — Energia:** proteção e restauração da aura; estabilização dos campos mental e emocional.
+- **Asiuf — Runa:** acalma a mente, alinha os pensamentos e favorece a paz.
+- **Aku — Runa:** manifesta memórias harmônicas e felizes; a ficha também menciona apoio ao trabalho com memórias traumáticas.
 
-Referências: [Aeito](../energias/aeito.md), [Asiuf](../runas/asiuf.md), [Aku](../runas/aku.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Evocar Ar Aeito e ativar as runas Asiuf e Aku. Com Ar Aeito, estabelecer proteção e estabilidade para a prática. Com Asiuf, acalmar a mente e alinhar os pensamentos. Com Aku, favorecer a manifestação espontânea e voluntária de memórias felizes e harmônicas que eu esteja confortável em recordar. Não forçar lembranças, não provocar regressões, não apagar memórias e interromper a prática se houver desconforto.
 
-Aku é o componente específico para memórias harmônicas e felizes. Asiuf oferece calma mental; Aeito, proteção e estabilidade do campo. A proposta não atribui a Aku capacidade de apagar, reescrever ou curar traumas.
+**Sequência**
+1. Evocar **Ar Aeito** para proteção e estabilidade.
+2. Ativar Asiuf para acalmar e alinhar a mente.
+3. Ativar Aku para acolher lembranças positivas espontâneas.
+4. Encerrar sem forçar recordações.
 
-### Sequência hipotética
-
-1. Definir como objetivo acolher lembranças positivas, sem exigir que alguma memória específica apareça.
-2. Evocar Ar Aeito.
-3. Evocar Asiuf.
-4. Evocar Aku.
-5. Emitir o comando, realizar a emanação e encerrar.
-
-### Comando proposto
-
-> Favoreça a manifestação espontânea e voluntária de memórias felizes e harmônicas que reconheço e desejo acolher. Mantenha a serenidade e a estabilidade durante a prática. Não force recordações, não apague memórias, não provoque regressões e não reabra conteúdos traumáticos.
-
-### Redundâncias, conflitos e lacunas
-
-- Aeito e Asiuf oferecem estabilidade por vias descritas de forma diferente.
-- A menção de Aku a memórias traumáticas não autoriza inferir capacidade terapêutica ou de apagamento.
-- Uma lembrança inesperada pode causar desconforto. Interrompa a prática se isso ocorrer.
-- A ficha não apresenta representação gráfica ou método detalhado de ativação da runa Aku.
-
-**O que permanece hipotético:** proteção e serenidade antes da evocação voluntária de lembranças positivas.
+**Por que essa ordem:** primeiro se estabelece estabilidade; depois se acalma a mente; só então se trabalha com lembranças positivas. A pessoa mantém o controle sobre o que deseja recordar.
 
 ---
 
-## VII-05 — Decodificação, purificação e estruturação energética
+## VII-05 — Decodificação e reorganização energética
 
-**Estado:** Experimental — depende de revisão da ficha Apy.  
-**Finalidade:** propor uma sequência entre decodificação de dados/nós, purificação e estabilização.
+**Intuito:** propor uma sequência de trabalho simbólico com dados e nós energéticos descritos no catálogo, seguida de purificação e estabilização.
 
-### Componentes e funções
+**Por que esta combinação:** Apy é o único código registrado com foco direto em decodificação e dissolução de dados e nós energéticos. Raio Afaeu acrescenta purificação, transmutação e ancoragem. Ar Afecit completa com refinamento e sincronização. A proposta é experimental porque a ficha Apy ainda não esclarece a ordem interna entre decodificar e dissolver.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Apy — Código | Decodificação e dissolução de dados e nós energéticos negativos. | Trabalho sobre estruturas informacionais descritas na ficha. |
-| Afaeu — Energia | Magnetização, transmutação, ancoragem, purificação e reprogramação de padrões de alinhamento sutis. | Purificação e reorganização. |
-| Afecit — Energia | Refinamento, estabilização, fixação de estruturas e sincronização. | Integração e estabilização. |
+**O que será combinado**
+- **Apy — Código:** decodificação e dissolução de dados e nós energéticos negativos, conforme a descrição da ficha.
+- **Raio Afaeu — Energia:** purificação, magnetização, transmutação e ancoragem de energias.
+- **Ar Afecit — Energia:** refinamento, fixação de estruturas, sincronização e estabilização.
 
-Referências: [Apy](../codigos/apy.md), [Afaeu](../energias/afaeu.md), [Afecit](../energias/afecit.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Ativar o código Apy e evocar Raio Afaeu e Ar Afecit. Direcionar Apy somente aos dados e nós energéticos que fazem parte do objetivo delimitado nesta prática, realizando a decodificação e a dissolução conforme a descrição do código, sem presumir etapas internas não documentadas. Em seguida, com Raio Afaeu, favorecer a purificação, a transmutação e a ancoragem das energias. Com Ar Afecit, refinar, sincronizar e estabilizar as estruturas trabalhadas. Encerrar após a estabilização.
 
-Os registros apresentam três eixos: informação (Apy), purificação/transmutação (Afaeu) e refinamento/sincronização (Afecit). A combinação é promissora como hipótese, mas Apy não esclarece sua operação nem a relação entre decodificar e dissolver.
+**Sequência**
+1. Definir claramente o escopo da prática.
+2. Ativar Apy para decodificação e dissolução, respeitando a lacuna documental da ficha.
+3. Evocar **Raio Afaeu** para purificação, transmutação e ancoragem.
+4. Evocar **Ar Afecit** para refinamento e estabilização.
+5. Encerrar.
 
-### Sequência hipotética
-
-1. Definir o escopo pessoal da prática e o que se entende, dentro do modelo, por dados ou nós.
-2. Evocar Apy como bloco funcional, sem presumir ordem interna entre decodificação e dissolução.
-3. Evocar Afaeu para as funções descritas de purificação, transmutação e ancoragem.
-4. Evocar Afecit para refinamento, sincronização e estabilização.
-5. Emitir o comando, realizar a emanação e encerrar.
-
-### Comando proposto
-
-> Trabalhe somente sobre os dados e nós energéticos delimitados no meu próprio campo, conforme o escopo desta prática. Respeite as funções documentadas para Apy, sem presumir etapas internas ainda não especificadas. Em seguida, direcione a programação às funções descritas de purificação, transmutação e ancoragem de Afaeu, e de refinamento, sincronização e estabilização de Afecit.
-
-### Redundâncias, conflitos e lacunas
-
-- Afaeu e Afecit compartilham magnetização/ancoragem ou funções próximas; justificar cada inclusão pelo objetivo específico.
-- Apy não informa se decodificação e dissolução são simultâneas ou sequenciais.
-- Não há método verificável para identificar os dados ou nós mencionados.
-- Afaeu precisa de uma sequência interna mais clara entre magnetização, transmutação, purificação e ancoragem.
-
-**O que permanece hipotético:** Apy → Afaeu → Afecit. Não promover a programação a padrão enquanto a ficha Apy não for revisada.
+**Por que essa ordem:** o código trabalha o conteúdo informacional descrito; a energia seguinte atua na purificação e reorganização; a última etapa sincroniza e estabiliza. A sequência permanece experimental até a ficha Apy ser esclarecida.
 
 ---
 
-## VII-06 — Harmonização energética associada ao corpo
+## VII-06 — Sincronização e alinhamento dos corpos e campos
 
-**Estado:** Experimental — depende de revisão das fichas das leis.  
-**Finalidade:** proposta simbólica de harmonização do campo energético associado ao corpo, sem diagnóstico ou intervenção fisiológica.
+**Intuito:** harmonizar a relação entre chakras, corpos, campos e estruturas energéticas.
 
-### Componentes e funções
+**Por que esta combinação:** Água Airono tem foco na restauração e sincronização dos chakras e do corpo etérico. Ar Afecit sincroniza e estabiliza corpos e campos. Aiti Fiy organiza e sintoniza o fluxo energético. Os três registros cobrem estruturas, sincronização e organização do fluxo sem repetir exatamente a mesma função.
 
-| Componente | Conteúdo declarado na ficha | Papel nesta proposta |
-|---|---|---|
-| Apeio Sepuo — Lei | Filtragem, reorganização e harmonização do sistema físico, conforme a descrição da lei. | Harmonização no vocabulário interno da Biblioteca. |
-| Alto — Símbolo | Restauração do fluxo energético e equilíbrio sensorial. | Restauração do fluxo energético. |
-| Aeito — Energia | Proteção e restauração da aura; alinhamento de corpos sutis e chakras; referência à integração energética do campo físico. | Proteção e integração do campo energético. |
+**O que será combinado**
+- **Água Airono — Energia:** restauração e sincronização dos chakras com o corpo físico; integração do corpo etérico e harmonização de corpos e campos.
+- **Ar Afecit — Energia:** refinamento, fixação, sincronização e estabilização de corpos, campos e energias.
+- **Aiti Fiy — Lei:** sintonia, concentração e organização de energias para criar fluxo harmônico nos corpos e campos.
 
-Referências: [Apeio Sepuo](../leis/apeio-sepuo.md), [Alto](../simbolos/alto.md), [Aeito](../energias/aeito.md).
+**Comando geral**
 
-### Justificativa da combinação
+> Evocar Água Airono e Ar Afecit e ativar a Lei Aiti Fiy. Com Água Airono, trabalhar o alinhamento e a sincronização dos chakras, do corpo etérico e das estruturas energéticas. Com Ar Afecit, refinar e estabilizar corpos, campos e energias. Com Aiti Fiy, sintonizar e organizar o fluxo energético, harmonizando os corpos e campos envolvidos. Manter a programação restrita ao objetivo de alinhamento e encerrar ao concluir.
 
-A lei descreve harmonização do sistema físico; Alto, restauração do fluxo energético e equilíbrio sensorial; Aeito, proteção e integração do campo energético. A proposta restringe-se expressamente ao modelo simbólico/energético.
+**Sequência**
+1. Evocar **Água Airono** para trabalhar chakras e corpo etérico.
+2. Evocar **Ar Afecit** para sincronizar e estabilizar as estruturas.
+3. Ativar Aiti Fiy para organizar e harmonizar o fluxo.
+4. Encerrar.
 
-### Sequência hipotética
-
-1. Delimitar a finalidade como harmonização energética associada ao corpo.
-2. Evocar Ar Aeito para proteção e integração.
-3. Evocar Apeio Sepuo somente para a função de harmonização descrita.
-4. Evocar Alto para restauração do fluxo energético e equilíbrio sensorial.
-5. Emitir o comando, realizar a emanação e encerrar.
-
-### Comando proposto
-
-> Direcione esta programação exclusivamente à harmonização do campo energético associado ao corpo, conforme o modelo da Biblioteca. Favoreça a integração do campo energético, a restauração do fluxo e o equilíbrio sensorial. Não realize diagnósticos, não intervenha em órgãos, sangue, doenças ou implantes físicos e não substitua acompanhamento médico.
-
-### Redundâncias, conflitos e lacunas
-
-- Apeio Sepuo e Alto possuem funções harmonizadoras, mas descritas em domínios diferentes.
-- Aeito também descreve restauração e integração.
-- A ficha da lei contém referências a implantes, pulmões, coração, sangue e nutrição. Esses termos precisam ser delimitados para não sugerir intervenção fisiológica.
-- Não há método de evocação, duração ou critérios de encerramento documentados.
-
-**O que permanece hipotético:** lei para harmonização, símbolo para fluxo e energia para integração. A proposta não deve ser apresentada como tratamento físico ou médico.
+**Por que essa ordem:** primeiro são trabalhadas as estruturas específicas; depois elas são sincronizadas e estabilizadas; por último o fluxo geral é organizado.
 
 ---
 
-## Matriz de compatibilidade
+## VII-07 — Proteção e harmonização do sistema mental
 
-A matriz indica sobreposições documentais, não compatibilidade comprovada.
+**Intuito:** criar uma programação voltada à estabilidade e à proteção simbólica do sistema mental, sem interferir na autonomia ou nas emoções naturais.
 
-| Combinação | Sobreposição identificada | Orientação |
-|---|---|---|
-| Asi Sir + Aeito | Proteção. | Combinar apenas quando proteção abrangente e proteção/reorganização áurica forem objetivos distintos. |
-| Afaiet + Afafel | Dissolução/desagregação e conteúdos de memória/emoção. | Não combinar sem esclarecer escopo, intensidade e preservação de memória. |
-| Agaei + Afecit | Restauração e estabilização. | Selecionar conforme a especialidade necessária; não presumir que ambos sejam sempre necessários. |
-| Afaeu + Afecit | Magnetização/ancoragem e reorganização. | Distinguir purificação/transmutação de refinamento/sincronização. |
-| Asuf + Asiuf | Atuação no domínio mental. | Preservar a distinção entre localização/limpeza e calma/alinhamento. |
-| Agei Peui + Alto | Harmonização sensorial. | Diferenciar harmonização integrada de restauração do fluxo. |
-| Afafiel + Agaei | Expansão do campo e absorção de sobrecargas. | Não combinar automaticamente; esclarecer quando expansão seria adequada. |
-| Alyi + qualquer energia | Catalisação de energias. | Não incluir sem saber quais energias catalisa e como a catalisação se comporta. |
+**Por que esta combinação:** Ajaeu oferece estabilização e blindagem mental; Luz Aster protege os corpos mentais contra interferências e ruídos, conforme a ficha; Asiuf acalma e alinha os pensamentos. Cada componente cobre uma parte do objetivo.
 
-**Regra de composição:** a repetição de uma habilidade não implica maior eficácia. Toda sobreposição deve ter uma justificativa funcional explícita. Não acrescentar componentes apenas por semelhança de nomes ou por aumentar a quantidade.
+**O que será combinado**
+- **Ajaeu — Código:** estabiliza e blinda o sistema mental e harmoniza os corpos mental e emocional.
+- **Luz Aster — Energia:** sela os corpos mental inferior e superior contra interferências vibracionais, manipulações e ruídos; regenera camadas do campo.
+- **Asiuf — Runa:** acalma a mente e alinha os pensamentos.
 
-## Fichas que precisam de revisão
+**Comando geral**
 
-### Prioridade crítica — delimitação e segurança
+> Ativar o código Ajaeu, evocar Luz Aster e ativar a runa Asiuf. Com Ajaeu, estabilizar e proteger simbolicamente o sistema mental e harmonizar os corpos mental e emocional. Com Luz Aster, reforçar a proteção e a estabilidade das estruturas mentais e das camadas do campo. Com Asiuf, acalmar a mente e alinhar os pensamentos. Preservar o discernimento, a autonomia, a memória e a capacidade de decisão. Encerrar em estado de serenidade.
 
-- **Apeieo Suorp:** separar linguagem de rastreamento/harmonização energética de diagnóstico ou tratamento de doenças.
-- **Apeio Sepuo:** esclarecer referências a implantes, pulmões, coração e sangue; não sugerir intervenção física.
-- **Afaiet:** delimitar linguagem sobre conteúdos mentais sensíveis; não apresentar como tratamento de pensamentos suicidas.
-- **Afafel:** esclarecer termos de drenagem, corrosão e desintegração de memórias e emoções; preservar autonomia e integridade da memória.
-- **Asuf:** definir “sentimentos e emoções negativos” sem transformar emoções humanas legítimas em alvos de eliminação.
+**Sequência**
+1. Ativar Ajaeu para estabilização e proteção mental.
+2. Evocar **Luz Aster** para reforçar a proteção das estruturas mentais.
+3. Ativar Asiuf para calma e alinhamento dos pensamentos.
+4. Encerrar.
 
-### Prioridade alta — completar dados operacionais
+**Por que essa ordem:** começa pela estabilização do sistema; reforça a proteção das estruturas; termina com calma e alinhamento. Não se deve interpretar pensamentos difíceis ou divergentes como prova de interferência externa.
 
-- **Apy:** explicar relação e ordem entre decodificação e dissolução, condições de aplicação e forma de evocação.
-- **Agaei:** esclarecer a relação entre absorção de sobrecargas e amplificação.
-- **Afafiel:** definir critérios de expansão e limites de atuação sobre intuição e campo mental.
-- **Afecit:** esclarecer a ordem entre magnetização, refinamento, fixação e sincronização.
-- **Afaeu:** esclarecer a ordem entre magnetização, transmutação, purificação e ancoragem.
-- **Agei Peui:** definir operacionalmente termos como sabotagem e mapeamento sensorial.
-- **Alyi:** especificar quais energias catalisa, seletividade e efeito esperado da catalisação.
+---
 
-### Prioridade editorial — representação e ativação
+## VII-08 — Harmonização do ambiente
 
-- **Aku e Asiuf:** documentar representação gráfica e método de ativação das runas.
-- **Asi Sir e Alto:** completar instruções de ativação e encerramento.
-- **Todas as categorias:** quando aplicável, registrar duração, intensidade, condições de interrupção e critérios de encerramento.
+**Intuito:** organizar simbolicamente o ambiente de prática e favorecer um fluxo energético harmônico.
 
-### Padronização editorial
+**Por que esta combinação:** Onda Asieo menciona purificação do ambiente de trabalho, água e alimentação, além de harmonização e sincronização. Raio Afaeu descreve purificação de portais, artefatos, itens e objetos. Aiti Fiy organiza o fluxo harmônico. A combinação fica restrita ao ambiente e aos objetos da prática.
 
-Unificar o padrão de termos de pesquisa e indexação entre modelos públicos e privados de fichas. O mesmo registro não deve depender de padrões de indexação conflitantes.
+**O que será combinado**
+- **Onda Asieo — Energia:** purificação do ambiente de trabalho, água e alimentação; harmonização e fortalecimento do campo.
+- **Raio Afaeu — Energia:** purificação energética de portais, artefatos, itens e objetos.
+- **Aiti Fiy — Lei:** sintonia, concentração e organização das energias em fluxo harmônico.
 
-## Padrão para novas programações
+**Comando geral**
 
-Toda nova ficha do Livro VII deve conter:
+> Evocar Onda Asieo e Raio Afaeu e ativar a Lei Aiti Fiy. Com Onda Asieo, harmonizar o ambiente de prática e trabalhar simbolicamente a purificação dos elementos nele incluídos. Com Raio Afaeu, direcionar a purificação aos objetos e itens selecionados. Com Aiti Fiy, sintonizar e organizar o fluxo energético do ambiente, buscando harmonia e estabilidade. Restringir a programação ao espaço e aos itens escolhidos e encerrar ao concluir.
 
-1. Nome e código da programação.
-2. Estado editorial: piloto, experimental ou revisada.
-3. Objetivo e área predominante (Corpo, Mente ou Espírito).
-4. Componentes e categoria de cada um.
-5. Função literal de cada componente segundo sua ficha.
-6. Interpretação funcional e justificativa da combinação.
-7. Ordem de evocação proposta, identificada como hipótese quando não for original.
-8. Comando de programação.
-9. Preparação, execução, emanação e encerramento.
-10. Redundâncias, possíveis conflitos e componentes opcionais.
-11. Lacunas documentais e informações ainda necessárias.
-12. Limites de uso e distinção entre modelo interno, interpretação e hipótese.
-13. Registro de observações, sem converter relatos subjetivos em comprovação científica.
+**Sequência**
+1. Definir o ambiente e os objetos incluídos.
+2. Evocar **Onda Asieo** para harmonização do ambiente.
+3. Evocar **Raio Afaeu** para os objetos e itens selecionados.
+4. Ativar Aiti Fiy para organizar o fluxo.
+5. Encerrar.
 
-### Princípio final
+**Por que essa ordem:** primeiro se define e harmoniza o espaço; depois se trabalha nos itens específicos; por último se organiza o fluxo geral. Esta prática não substitui limpeza física, ventilação, saneamento ou segurança alimentar.
 
-O Livro VII deve transformar os catálogos em propostas de composição funcional sem alterar a identidade dos registros originais. Cada componente conserva sua ficha, sua categoria e seus limites. Uma sinergia só deve ser mantida quando a contribuição de cada componente puder ser explicada com clareza.
+---
 
-Nenhuma programação deste livro deve ser utilizada para ataque, agressão, maldição, sabotagem, coerção ou interferência não consentida sobre pessoas ou seres.
+## VII-09 — Restauração do fluxo e equilíbrio sensorial
+
+**Intuito:** favorecer a restauração simbólica do fluxo energético e o equilíbrio do sistema sensorial.
+
+**Por que esta combinação:** Alto tem uma função direta e simples de restauração do fluxo e equilíbrio sensorial. Raio Agaei acrescenta restauração e estabilização do campo e dos canais. Agei Peui amplia a harmonização para os sistemas sensorial e mental. Não se incluem componentes com alegações de tratamento físico.
+
+**O que será combinado**
+- **Alto — Símbolo:** restaura o fluxo energético e equilibra o sistema sensorial.
+- **Raio Agaei — Energia:** restaura e estabiliza energias, camadas, campo e canais.
+- **Agei Peui — Simbologia:** harmoniza os sistemas sensorial e mental e a personalidade, além de blindar o sistema sensorial.
+
+**Comando geral**
+
+> Evocar Raio Agaei e ativar o símbolo Alto e a simbologia Agei Peui. Com Raio Agaei, favorecer a restauração e a estabilização do campo e dos canais energéticos. Com Alto, restaurar o fluxo energético e buscar equilíbrio do sistema sensorial. Com Agei Peui, harmonizar os sistemas sensorial e mental e a personalidade, mantendo a proteção sensorial. Encerrar quando a programação estiver concluída.
+
+**Sequência**
+1. Evocar **Raio Agaei** para restaurar e estabilizar o campo.
+2. Ativar Alto para restaurar o fluxo.
+3. Ativar Agei Peui para integrar a harmonização sensorial e mental.
+4. Encerrar.
+
+**Por que essa ordem:** primeiro se recompõe o campo e os canais; depois se restaura o fluxo; por fim se integra a harmonização sensorial e mental.
+
+---
+
+## VII-10 — Desenvolvimento e conexão espiritual
+
+**Intuito:** reunir recursos descritos para desenvolvimento do corpo energético, harmonização espiritual e integração dos corpos sutis.
+
+**Por que esta combinação:** Altio Ditir tem foco no desenvolvimento do corpo energético e conexão com o Eu Superior. Agipt relaciona o despertar do corpo causal à evolução do corpo etérico. Vibração Aitin trabalha fortalecimento, sincronização e refinamento de corpos e campos. A combinação segue do desenvolvimento à integração e sustentação.
+
+**O que será combinado**
+- **Altio Ditir — Simbologia:** desenvolve o corpo energético, harmoniza o sistema espiritual e auxilia na conexão com o Eu Superior.
+- **Agipt — Símbolo:** desperta o corpo causal para favorecer a evolução do corpo etérico.
+- **Vibração Aitin — Energia:** fortalece, sincroniza e refina energias nos corpos e campos; limpa bloqueios intuitivos e energias estagnadas.
+
+**Comando geral**
+
+> Ativar Altio Ditir e Agipt e evocar Vibração Aitin. Com Altio Ditir, favorecer o desenvolvimento do corpo energético e a harmonização do sistema espiritual. Com Agipt, trabalhar simbolicamente o despertar do corpo causal e a evolução do corpo etérico. Com Vibração Aitin, fortalecer, sincronizar e refinar as estruturas energéticas envolvidas, favorecendo equilíbrio e integração. Respeitar os limites pessoais e encerrar a prática de forma consciente.
+
+**Sequência**
+1. Ativar Altio Ditir para desenvolvimento e harmonização espiritual.
+2. Ativar Agipt para a relação entre corpo causal e corpo etérico.
+3. Evocar **Vibração Aitin** para fortalecer, sincronizar e refinar.
+4. Encerrar.
+
+**Por que essa ordem:** primeiro se estabelece o objetivo de desenvolvimento espiritual; depois se trabalha a relação entre os corpos causal e etérico; por último se busca integrar e estabilizar as estruturas.
+
+---
+
+## Critérios de composição
+
+- **Combinar por função, não por quantidade.** Um componente só entra quando acrescenta algo necessário ao objetivo.
+- **Evitar duplicação.** Duas fichas com a mesma habilidade não significam automaticamente um resultado maior.
+- **Respeitar a eficiência registrada.** Habilidades descritas como de eficiência normal ou baixa não devem ser apresentadas como o foco principal sem justificativa.
+- **Não inventar evocação.** Nas energias, utilizar literalmente o nome de invocação da ficha. Nas demais categorias, usar o nome registrado e o método próprio, quando documentado.
+- **Não inventar sequência original.** A ordem apresentada é uma proposta funcional do Livro VII, salvo quando a própria ficha declarar uma sequência.
+- **Preservar autonomia e segurança.** Nenhum comando deve controlar terceiros, forçar emoções, apagar memórias ou substituir cuidados profissionais.
+
+## Fichas que merecem revisão antes de novas combinações
+
+1. **Apy:** esclarecer se decodificação e dissolução são simultâneas ou sequenciais e fornecer nome ou método de ativação.
+2. **Alyi:** explicar quais energias catalisa e como funciona essa catalisação.
+3. **Acuei:** esclarecer a expressão “envolvendo manipulações e interferências”.
+4. **Apeieo Suorp e Apeio Sepuo:** delimitar com precisão a linguagem de saúde física, sem sugerir diagnóstico ou tratamento médico.
+5. **Afafel e Afaiet:** revisar a linguagem de desintegração de memórias, traumas e pensamentos, preservando integridade emocional e segurança.
+6. **Agei Peui:** definir o que significa “mapear sabotagens” e como isso seria reconhecido no modelo.
+7. **Runas Aku e Asiuf:** completar representação gráfica e método de ativação.
+8. **Demais símbolos e simbologias:** quando possível, acrescentar instruções de ativação, duração e encerramento.
+
+## Nota editorial
+
+Este Livro VII é uma proposta de composição baseada no conteúdo disponível nos Livros I a VI. As funções atribuídas a cada componente vêm de suas fichas. A combinação, o comando e a ordem são hipóteses de programação para estudo e observação, não resultados demonstrados.
+
+O catálogo deve ser ampliado somente quando houver uma combinação coerente, uma finalidade clara e uma contribuição identificável de cada componente.
