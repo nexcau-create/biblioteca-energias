@@ -10,6 +10,7 @@ Catálogo textual dos símbolos estudados e registrados na Biblioteca do Conheci
 
 **A**
 
+- [Akau](./akau) — Sinodi · Sagrada · Limpeza de ressentimentos no corpo mental inferior
 - [Agipt](./agipt) — Figlei · Sagrada · Desenvolvimento dos corpos causal e etérico
 - [Aldir](./aldir) — Peutir · Sagrada · Localização relacionada a diagnóstico de saúde
 - [Alto](./alto) — Figlei · Divina · Restauração
