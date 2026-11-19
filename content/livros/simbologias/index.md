@@ -11,6 +11,7 @@ Catálogo textual das simbologias estudadas e registradas na Biblioteca do Conhe
 **A**
 
 - [Adirp Fauf](./adirp-fauf) — Orion · Astral · Reorganização comportamental
+- [Alf Paum](./alf-paum) — Orion · Astral · Nutrição e restauração do sistema espiritual
 - [Altio Ditir](./altio-ditir) — Orion · Astral · Desenvolvimento espiritual
 - [Agei Peui](./agei-peui) — Oriom · Astral · Harmonização
 - [Asi Sir](./asi-sir) — Orion · Astral · Defensiva
