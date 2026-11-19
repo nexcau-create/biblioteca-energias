@@ -10,6 +10,7 @@ Catálogo textual das leis estudadas e registradas na Biblioteca do Conhecimento
 
 **A**
 
+- [Alsi Elga](./alsi-elga) — Origem Telúrica · Nível 1
 - [Aiti Fiy](./aiti-fiy) — Origem Telúrica · Nível 1
 - [Asurip Dautif](./asurip-dautif) — Origem Sagrada · Nível 3
 - [Apeieo Suorp](./apeieo-suorp) — Origem Telúrica · Nível 1
