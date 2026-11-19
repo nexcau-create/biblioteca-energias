@@ -10,6 +10,7 @@ Catálogo textual das runas estudadas e registradas na Biblioteca do Conheciment
 
 **A**
 
+- [Ajeim](./ajeim) — Origem Petir
 - [Acif](./acif) — Origem Petir
 - [Afur](./afur) — Origem Petir
 - [Aku](./aku) — Origem Petir
