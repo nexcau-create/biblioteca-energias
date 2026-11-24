@@ -41,6 +41,10 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Astral](./astral) — Sirio · Astral · Eletricidade
 - [Atenie](./atenie) — Autir · Astral · Pressão atmosférica
 
+**B**
+
+- [Bauro](./bauro) — Aion · Astral · Eletricidade
+
 Novas fichas serão incorporadas em ordem alfabética. A busca do site pode localizar nomes, origens, linhagens, elementos e termos de atuação.
 
 [Voltar à Biblioteca](../../)
