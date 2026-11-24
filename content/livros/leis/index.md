@@ -6,16 +6,10 @@ title: Livro III — Leis
 
 Catálogo textual das leis estudadas e registradas na Biblioteca do Conhecimento Magístico. Cada lei possui uma ficha individual com origem, nível e eficácia informada.
 
-## Índice alfabético
+## Navegação alfabética
 
-**A**
+Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-- [Alsi Elga](./alsi-elga) — Origem Telúrica · Nível 1
-- [Aiti Fiy](./aiti-fiy) — Origem Telúrica · Nível 1
-- [Asurip Dautif](./asurip-dautif) — Origem Sagrada · Nível 3
-- [Apeieo Suorp](./apeieo-suorp) — Origem Telúrica · Nível 1
-- [Apeio Sepuo](./apeio-sepuo) — Origem Sagrada · Nível 3
-
-Novas leis serão incorporadas em ordem alfabética.
+[A](./a) · ~~B~~ · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
