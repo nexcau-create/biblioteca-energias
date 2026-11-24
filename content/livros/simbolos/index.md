@@ -6,16 +6,10 @@ title: Livro VI — Símbolos
 
 Catálogo textual dos símbolos estudados e registrados na Biblioteca do Conhecimento Magístico. Cada ficha apresenta linhagem, origem, especialidade e eficiência principal, conforme os dados disponíveis.
 
-## Índice alfabético
+## Navegação alfabética
 
-**A**
+Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-- [Akau](./akau) — Sinodi · Sagrada · Limpeza de ressentimentos no corpo mental inferior
-- [Agipt](./agipt) — Figlei · Sagrada · Desenvolvimento dos corpos causal e etérico
-- [Aldir](./aldir) — Peutir · Sagrada · Localização relacionada a diagnóstico de saúde
-- [Alto](./alto) — Figlei · Divina · Restauração
-- [Alyi](./alyi) — Peuti · Primordial · Catalisação
-
-Novos símbolos serão incorporados em ordem alfabética.
+[A](./a) · ~~B~~ · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
