@@ -6,17 +6,10 @@ title: Livro II — Códigos
 
 Catálogo textual dos códigos estudados e registrados na Biblioteca do Conhecimento Magístico. Cada código possui uma página individual com identificação, habilidade principal, campo de atuação, observações e estado editorial.
 
-## Índice alfabético
+## Navegação alfabética
 
-**A**
+Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-- [Acuei](./acuei) — Orion · Sagrada · Registro inicial
-- [Adir](./adir) — Laurp · Sagrada · Registro inicial
-- [Ahtir](./ahtir) — Orion · Primordial · Registro inicial
-- [Ajaeu](./ajaeu) — Orion · Telúrica · Registro inicial
-- [Apy](./apy) — Orion · Astral · Em análise
-- [Asuf](./asuf) — Aorion · Primordial · Registro inicial
-
-Novos códigos serão incorporados em ordem alfabética.
+[A](./a) · ~~B~~ · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
