@@ -34,6 +34,7 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 - [Arymon](./arymon) — Sirio · Astral · Matéria visível
 - [Asieo](./asieo) — Orion · Primordial · Onda
 - [Aties](./aties) — Aurio · Astral · Ligas metálicas
+- [Atuinie](./atuinie) — Aurio · Primordial · Raio
 - [Aste](./aste) — Umbanda · Telúrica · Eletricidade
 - [Asteir](./asteir) — Sirio · Astral · Matéria escura
 - [Asteit](./asteit) — Sirio · Astral · Terra
