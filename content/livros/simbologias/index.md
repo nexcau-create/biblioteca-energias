@@ -6,16 +6,10 @@ title: Livro V — Simbologias
 
 Catálogo textual das simbologias estudadas e registradas na Biblioteca do Conhecimento Magístico. Cada ficha apresenta linhagem, origem, especialidade e eficiência principal, conforme os dados disponíveis.
 
-## Índice alfabético
+## Navegação alfabética
 
-**A**
+Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-- [Adirp Fauf](./adirp-fauf) — Orion · Astral · Reorganização comportamental
-- [Alf Paum](./alf-paum) — Orion · Astral · Nutrição e restauração do sistema espiritual
-- [Altio Ditir](./altio-ditir) — Orion · Astral · Desenvolvimento espiritual
-- [Agei Peui](./agei-peui) — Oriom · Astral · Harmonização
-- [Asi Sir](./asi-sir) — Orion · Astral · Defensiva
-
-Novas simbologias serão incorporadas em ordem alfabética.
+[A](./a) · ~~B~~ · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
