@@ -5,6 +5,11 @@ on:
     branches:
       - v4
 
+# Evita duas publicações simultâneas disputando o ambiente github-pages.
+concurrency:
+  group: github-pages-v4
+  cancel-in-progress: false
+
 permissions:
   contents: read
   pages: write
