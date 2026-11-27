@@ -10,6 +10,6 @@ Catálogo textual de energias estudadas e registradas na Biblioteca do Conhecime
 
 Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-[A](./a) · [B](./b) · [C](./c) · [D](./d) · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · [S](./s) · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
+[A](./a) · [B](./b) · [C](./c) · [D](./d) · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · [P](./p) · ~~Q~~ · ~~R~~ · [S](./s) · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
