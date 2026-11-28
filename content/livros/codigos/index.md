@@ -10,6 +10,6 @@ Catálogo textual dos códigos estudados e registrados na Biblioteca do Conhecim
 
 Selecione uma letra para consultar os registros. Letras sem registros cadastrados aparecem riscadas.
 
-[A](./a) · ~~B~~ · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
+[A](./a) · [B](./b) · ~~C~~ · ~~D~~ · ~~E~~ · ~~F~~ · ~~G~~ · ~~H~~ · ~~I~~ · ~~J~~ · ~~K~~ · ~~L~~ · ~~M~~ · ~~N~~ · ~~O~~ · ~~P~~ · ~~Q~~ · ~~R~~ · ~~S~~ · ~~T~~ · ~~U~~ · ~~V~~ · ~~W~~ · ~~X~~ · ~~Y~~ · ~~Z~~
 
 [Voltar à Biblioteca](../../)
